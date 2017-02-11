@@ -2,14 +2,14 @@
 
 ### Features
 
-&nbsp; &nbsp; ✓ Modern JavaScript syntax, modern CSS syntax via [SASS](http://sass-lang.com/)<br>
+&nbsp; &nbsp; ✓ Modern JavaScript syntax, modern CSS syntax via [SASS](http://sass-lang.com/), underlying platform written in GO.<br>
 &nbsp; &nbsp; ✓ Runs Anywhere, no need for admin privileges, databases, runtimes, interpreters or external libraries.<br>
 &nbsp; &nbsp; ✓ Can be deployed on S3, Github Pages, Dropbox or any web host.<br>
 &nbsp; &nbsp; ✓ Fast - only milliseconds to build your entire site!<br>
-&nbsp; &nbsp; ✓ Supports YAML, TOML, and JSON<br>
-&nbsp; &nbsp; ✓ Open Source & Free ([HMR](https://github.com/spf13/hugo))<br>
-&nbsp; &nbsp; ✓ Robust Documentation [gohugo.io](https://gohugo.io/overview/introduction/)<br>
-&nbsp; &nbsp; ✓ **24/7** community support on [gohugo](https://discuss.gohugo.io/)<br>
+&nbsp; &nbsp; ✓ Supports YAML, TOML, and JSON.<br>
+&nbsp; &nbsp; ✓ Open Source & Free ([HMR](https://github.com/spf13/hugo)).<br>
+&nbsp; &nbsp; ✓ Robust Documentation [gohugo.io](https://gohugo.io/overview/introduction/).<br>
+&nbsp; &nbsp; ✓ **24/7** community support on [gohugo](https://discuss.gohugo.io/).<br>
 
 
 
