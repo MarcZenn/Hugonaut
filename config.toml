@@ -1,0 +1,14 @@
+languageCode = "en-us"
+title = "Web Application Static Front End Hugo Boilerplate"
+baseurl = "http://example.org/"
+
+[params]
+    AuthorName = "Marcos Martinez"
+    SiteDesc = "Web Application Static Front End Hugo Boilerplate"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[permalinks]
+    post = "/:year/:slug"
