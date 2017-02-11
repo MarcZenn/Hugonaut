@@ -20,7 +20,7 @@
 **Step 2**. Update your $PATH. If you have a PC you will ned too...If on a mac simply run the command below to test.
 
 ```shell
-$ hugo help                     # To test if hugo
+$ hugo help                     # To test
 ```
 
 **Step 3**. Clone this repository
@@ -50,16 +50,16 @@ $ hugo server                    # From root.
 │   └── post.md                     # Defines Post Structure for "content/post"
 ├── config.toml                     # Site wide Configuration File
 ├── content                         # All of our actual content excluding CSS, JS, images etc.
-│   ├── post
-│   │   ├── first.md
+│   ├── post                        # Where we write and manage our blog posts
+│   │   ├── first.md                
 │   │   ├── second.md
 │   │   └── third.md
-│   └── views
+│   └── views                       # Where we write and manage our site views
 │       └── home.md
 ├── data
-├── layouts
+├── layouts                         # In lieu of a theme, defines our overall html layout.
 │   └── index.html
-├── public
+├── public                          # Our output build folder
 │   ├── index.html
 │   ├── index.xml
 │   ├── post
