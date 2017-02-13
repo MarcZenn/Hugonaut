@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Web Application Static Front End Hugo Boilerplate"
-baseurl = "http://example.org/"
+baseurl = "http://example.com/"
 
 [params]
     AuthorName = "Marcos Martinez"

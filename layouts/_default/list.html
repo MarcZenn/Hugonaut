@@ -1,0 +1,7 @@
+{{ .Title }}
+
+{{ range .Data.Pages }}
+  {{ .Title }}
+
+  {{ .Date.Format "Sunday, Feb 12, 2017" }}
+{{ end }}

@@ -15,12 +15,12 @@
 
 ### Getting Started
 
-**Step 1**. If you have a MAC (preferably 64bit) download [Homebrew](http://brew.sh/) and run `brew install hugo`. If you have PC simply download the appropriate version from [here](https://github.com/spf13/hugo/releases).
+**Step 1**. If you have a MAC (preferably 64bit) download [Homebrew](http://brew.sh/) then run `brew install hugo`. If you have PC simply download the appropriate version from [here](https://github.com/spf13/hugo/releases).
 
-**Step 2**. Update your $PATH. If you have a PC you will ned too...If on a mac simply run the command below to test.
+**Step 2**. Update your $PATH. If you have a PC you will need too...If installed with Homebrew you should be good to go. You can run the command below to verify.
 
 ```shell
-$ hugo help                     # To test
+$ hugo help                # To test
 ```
 
 **Step 3**. Clone this repository
@@ -74,7 +74,7 @@ $ hugo server                    # From root.
 │       │   └── index.html
 │       ├── index.html
 │       └── index.xml
-└── static                        # All our non-content files i.e. images, CSS, scripts, pdf's
+└── static                            # All our non-content files i.e. images, CSS, scripts, pdf's
 ```
 
 ### Customizing Styles

@@ -2,29 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Web Application Static Front End Hugo Boilerplate</title>
-    <link>http://example.org/post/index.xml</link>
+    <link>http://example.com/post/index.xml</link>
     <description>Recent content in Posts on Web Application Static Front End Hugo Boilerplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2017 12:51:42 -0700</lastBuildDate>
-    <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2017 12:53:58 -0700</lastBuildDate>
+    <atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>http://example.org/2017/</link>
-      <pubDate>Sat, 11 Feb 2017 12:51:42 -0700</pubDate>
+      <title>This is your third blog post</title>
+      <link>http://example.com/2017/this-is-your-third-blog-post</link>
+      <pubDate>Sat, 11 Feb 2017 12:53:58 -0700</pubDate>
       
-      <guid>http://example.org/2017/</guid>
-      <description></description>
+      <guid>http://example.com/2017/this-is-your-third-blog-post</guid>
+      <description>
+
+&lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://example.org/2017/</link>
-      <pubDate>Sat, 11 Feb 2017 12:35:22 -0700</pubDate>
+      <title>This is your second blog post</title>
+      <link>http://example.com/2017/this-is-your-second-blog-post</link>
+      <pubDate>Sat, 11 Feb 2017 12:53:55 -0700</pubDate>
       
-      <guid>http://example.org/2017/</guid>
-      <description></description>
+      <guid>http://example.com/2017/this-is-your-second-blog-post</guid>
+      <description>
+
+&lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This is your first blog post</title>
+      <link>http://example.com/2017/this-is-your-first-blog-post</link>
+      <pubDate>Sat, 11 Feb 2017 12:53:53 -0700</pubDate>
+      
+      <guid>http://example.com/2017/this-is-your-first-blog-post</guid>
+      <description>
+
+&lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
+</description>
     </item>
     
   </channel>
