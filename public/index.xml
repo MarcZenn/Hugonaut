@@ -6,8 +6,28 @@
     <description>Recent content on Web Application Static Front End Hugo Boilerplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2017 12:53:58 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 10:51:28 -0700</lastBuildDate>
     <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>products</title>
+      <link>http://example.com/views/products/</link>
+      <pubDate>Mon, 13 Feb 2017 10:51:28 -0700</pubDate>
+      
+      <guid>http://example.com/views/products/</guid>
+      <description>&lt;p&gt;some content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://example.com/views/about/</link>
+      <pubDate>Mon, 13 Feb 2017 10:46:27 -0700</pubDate>
+      
+      <guid>http://example.com/views/about/</guid>
+      <description>&lt;p&gt;some content&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>This is your third blog post</title>
@@ -43,15 +63,6 @@
 
 &lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>home</title>
-      <link>http://example.com/views/home/</link>
-      <pubDate>Sat, 11 Feb 2017 11:07:40 -0700</pubDate>
-      
-      <guid>http://example.com/views/home/</guid>
-      <description></description>
     </item>
     
   </channel>

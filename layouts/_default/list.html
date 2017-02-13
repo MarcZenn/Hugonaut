@@ -1,7 +1,12 @@
-{{ .Title }}
+{{ partial "header.html" . }}
 
-{{ range .Data.Pages }}
-  {{ .Title }}
+  <h1>{{ .Title }}</h1>
 
-  {{ .Date.Format "Sunday, Feb 12, 2017" }}
-{{ end }}
+  {{ range first 4 (where .Data.Pages "Section" "post") }}
+    <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+
+    <small>{{ .Date.Format "Sunday, Feb 12, 2017" }}</small>
+  {{ end }}
+
+
+{{ partial "footer.html" . }}

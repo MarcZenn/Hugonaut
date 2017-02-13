@@ -1,0 +1,11 @@
+  <footer>
+    <ul>
+      {{ range .Site.Menus.main }}
+      <li>
+        <p>
+          <a href="{{ .Name }}">{{ .Name }}</a>
+        </p>
+      </li>
+      {{ end }}
+    </ul>
+  </footer>

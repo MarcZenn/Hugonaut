@@ -1,5 +1,10 @@
-{{.Title}}
+{{ partial "header.html" . }}
 
-{{ .Date.Format "Sunday, Feb 12, 2017"}}
+  <h2>{{.Title}}</h2>
 
-{{ .Content }}
+  <small>{{ .Date.Format "Sunday, Feb 12, 2017"}}</small>
+
+  <p>{{ .Content }}</p>
+
+
+<!-- {{ partial "footer.html" . }} -->
