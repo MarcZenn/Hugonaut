@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <title>{{.Title}}</title>
+  <!-- give us the value in .Site.Data that has index main.css -->
+  <link rel="stylesheet" href="/css/{{ index .Site.Data.css.hash "main.css" }}" />
 </head>
 <body>
-
-  {{ partial "nav.html" . }}

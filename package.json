@@ -1,0 +1,27 @@
+{
+  "name": "Hugoplate",
+  "version": "1.0.0",
+  "description": "Web Application Static Front End Hugo Boilerplate",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcZenn/Hugoplate.git"
+  },
+  "keywords": [],
+  "author": "Marcos Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcZenn/Hugoplate/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-hash": "^4.0.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
