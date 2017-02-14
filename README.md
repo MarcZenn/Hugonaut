@@ -2,8 +2,8 @@
 
 ### Features
 
-&nbsp; &nbsp; ✓ Modern JavaScript syntax, modern CSS syntax via [SASS](http://sass-lang.com/), underlying platform written in GO.<br>
-&nbsp; &nbsp; ✓ Runs Anywhere, no need for admin privileges, databases, runtimes, interpreters or external libraries.<br>
+&nbsp; &nbsp; ✓ Modern JavaScript syntax, modern CSS syntax via [SASS](http://sass-lang.com/) & [Gulp](http://gulpjs.com/).<br>
+&nbsp; &nbsp; ✓ Runs Anywhere, no need for admin privileges, databases, runtimes, interpreters or external libraries other than gulp.<br>
 &nbsp; &nbsp; ✓ Can be deployed on S3, Github Pages, Dropbox or any web host.<br>
 &nbsp; &nbsp; ✓ Fast - only milliseconds to build your entire site!<br>
 &nbsp; &nbsp; ✓ Supports YAML, TOML, and JSON.<br>
@@ -25,14 +25,19 @@ $ hugo help                # To test
 
 **Step 3**. Clone this repository
 
+**Step 4**. Install Gulp via npm
 
-**Step 4**. Compile and build your static website by running:
+```shell
+$ npm install                    
+```
+
+**Step 5**. Compile and build your static website by running:
 
 ```shell
 $ hugo                           # From root.
 ```
 
-**Step 5**. Serve your static website locally by running:
+**Step 6**. Serve your static website locally by running:
 
 ```shell
 $ hugo server                    # From root.
