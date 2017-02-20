@@ -16,7 +16,7 @@ var gulp         = require("gulp"),
 // Hash css
 gulp.task("scss", function () {
 
-  del(["static/css/**/*"])            // Delete our old css files
+  del(["static/css/**/*"])              // Delete our old css files
 
   gulp.src("src/scss/**/*.scss")
       .pipe(sass({

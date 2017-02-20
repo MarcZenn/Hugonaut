@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/views/products</loc>
+    <lastmod>2017-02-13T10:51:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/views/about</loc>
+    <lastmod>2017-02-13T10:46:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/this-is-your-third-blog-post</loc>
+    <lastmod>2017-02-11T12:53:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/this-is-your-second-blog-post</loc>
+    <lastmod>2017-02-11T12:53:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2017/this-is-your-first-blog-post</loc>
+    <lastmod>2017-02-11T12:53:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/community/</loc>
+    <lastmod>2017-02-11T12:53:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/news/</loc>
+    <lastmod>2017-02-11T12:53:55-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/</loc>
+    <lastmod>2017-02-11T12:53:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/update/</loc>
+    <lastmod>2017-02-11T12:53:53-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/views/</loc>
+    <lastmod>2017-02-13T10:51:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2017-02-13T10:51:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

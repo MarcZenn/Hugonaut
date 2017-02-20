@@ -1,6 +1,23 @@
-languageCode = "en-us"
-title = "Web Application Static Front End Hugo Boilerplate"
-baseurl = "http://example.com/"
+# For more Configuration Options visit - https://gohugo.io/overview/configuration/
+#
+#
+config                               = "config.toml"
+metaDataFormat                       = "toml" # "yaml", "toml", "json"
+languageCode                         = "en-us"
+defaultContentLanguage               = "en"
+title                                = "Web Application Static Front End Hugo Boilerplate"
+baseurl                              = "http://example.com/"
+googleAnalytics                      = ""     # Google Analytics tracking id
+archetypeDir                         = "archetypes"
+staticDir                            = "static"
+layoutDir                            = "layouts"
+log                                  = false  # Enable Logging
+buildDrafts                          = false  # include content marked as draft
+enableRobotsTXT                      = true   # Build robots.txt file
+disable404                           = false  # Do not render 404 page
+enableMissingTranslationPlaceholders = false  # Show a placeholder instead of the default value or an empty string if a translation is missing
+
+
 
 [params]
     AuthorName = "Marcos Martinez"

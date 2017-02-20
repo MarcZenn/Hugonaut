@@ -3,6 +3,7 @@
 ### Features
 
 &nbsp; &nbsp; ✓ Modern JavaScript syntax, modern CSS syntax via [SASS](http://sass-lang.com/) & [Gulp](http://gulpjs.com/).<br>
+&nbsp; &nbsp; ✓ Asset Cache-Busting <br>
 &nbsp; &nbsp; ✓ Runs Anywhere, no need for admin privileges, databases, runtimes, interpreters or external libraries other than gulp.<br>
 &nbsp; &nbsp; ✓ Can be deployed on S3, Github Pages, Dropbox or any web host.<br>
 &nbsp; &nbsp; ✓ Fast - only milliseconds to build your entire site!<br>
@@ -49,37 +50,58 @@ $ hugo server                    # From root.
 
 ```shell
 .
-├── README.md                       # Setup & Usage Overview
-├── archetypes                      # Default structure for pages and blog posts
-│   ├── default.md                  # Defines Page Structure for "content/views"
-│   └── post.md                     # Defines Post Structure for "content/post"
-├── config.toml                     # Site wide Configuration File
-├── content                         # All of our actual content excluding CSS, JS, images etc.
-│   ├── post                        # Where we write and manage our blog posts
-│   │   ├── first.md                
+├── README.md                           # Setup & Usage Overview
+├── archetypes                          # Default structure for pages and blog posts
+│   ├── default.md                      # Defines Page Structure for home
+│   ├── landing.md                      # Defines Post Structure for "content/landing"
+│   ├── post.md                         # Defines Post Structure for "content/post"
+│   └── views.md                        # Defines Page Structure for "content/views"
+├── config.toml                         # Site wide Configuration File
+├── content                             # All of our text content
+│   ├── post                            # Where you can write and manage blog post content
+│   │   ├── first.md
 │   │   ├── second.md
 │   │   └── third.md
-│   └── views                       # Where we write and manage our site views
-│       └── home.md
-├── data
-├── layouts                         # In lieu of a theme, defines our overall html layout.
-│   └── index.html
-├── public                          # Our output build folder
+│   └── views                           # Where we write and manage our views content
+│       ├── about.md
+│       └── products.md
+├── data                                # Our hashed data
+│   ├── css
+│   │   └── hash.json
+│   ├── images
+│   │   └── hash.json
+│   └── js
+│       └── hash.json
+├── gulpfile.js
+├── layouts
+│   ├── _default                        # Where we write and manage our blog layouts
+│   │   ├── list.html
+│   │   └── single.html
 │   ├── index.html
-│   ├── index.xml
-│   ├── post
-│   │   └── index.xml
-│   ├── sitemap.xml
-│   ├── tags
-│   │   ├── index.xml
-│   │   └── updates
-│   │       └── index.xml
-│   └── views
-│       ├── home
-│       │   └── index.html
-│       ├── index.html
-│       └── index.xml
-└── static                            # All our non-content files i.e. images, CSS, scripts, pdf's
+│   ├── partials                        # Markup partials
+│   │   ├── ender.html
+│   │   ├── footer.html
+│   │   ├── header.html
+│   │   └── nav.html
+│   └── views                           # Where we write and manage our views layouts
+│       └── single.html
+├── package.json
+├── public                              # Our output compile folder
+├── src                                 # Our Gulp generated asset input folder
+│   ├── images
+│   ├── js
+│   └── scss
+│       ├── main.scss
+│       ├── pages
+│       │   ├── _about.scss
+│       │   └── _home.scss
+│       └── vendor
+│           └── _bootstrap.scss
+└── static                              # Our Gulp generated asset folder
+    ├── css
+    │   └── main-50fff5d4.css
+    ├── images
+    └── js
 ```
 
 ### Customizing Styles

@@ -1,7 +1,8 @@
 {{ partial "header.html" . }}
 {{ partial "nav.html" . }}
 
-  <h1>{{ .Title }}</h1>
+  <h1>Blog</h1>
+  <h2>{{ .Title }}</h2>
 
   {{ range first 4 (where .Data.Pages "Section" "post") }}
     <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
