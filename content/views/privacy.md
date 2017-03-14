@@ -15,7 +15,7 @@ menu = []
 
   subheadline_one="Our Policy"
 
-  copy_one="My brother wasn't optimistic it could be done, but I didn't take "wasn't optimistic it could be done" for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
+  copy_one="My brother wasn't optimistic it could be done, but I didn't take 'wasn not optimistic it could be done' for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
 
   subheadline_two="Information We Collect"
 
@@ -23,7 +23,7 @@ menu = []
 
   subheadline_three="Personal Data That You Provide Through the Site or Products"
 
-  copy_three="My brother wasn't optimistic it could be done, but I didn't take "wasn't optimistic it could be done" for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
+  copy_three="My brother wasn't optimistic it could be done, but I didn't take 'wasn not optimistic it could be done' for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
 
   copy_four="YOU'RE the Chiclet! Not me. Caw ca caw, caw ca caw, caw ca caw! Go ahead, touch the Cornballer. What a fun, sexy time for you. For there's a man inside me, and only when he's finally out, can I walk free of pain. Whenever she'd change clothes, she'd make me wait on the balcony until zip-up, and yet anything goes at bath time. In fact, it was a box of Oscar's legally obtained medical marijuana. Primo bud. Real sticky weed."
 
@@ -31,7 +31,7 @@ menu = []
 
   copy_five="YOU'RE the Chiclet! Not me. Caw ca caw, caw ca caw, caw ca caw! Go ahead, touch the Cornballer. What a fun, sexy time for you. For there's a man inside me, and only when he's finally out, can I walk free of pain. Whenever she'd change clothes, she'd make me wait on the balcony until zip-up, and yet anything goes at bath time. In fact, it was a box of Oscar's legally obtained medical marijuana. Primo bud. Real sticky weed."
 
-  copy_six="My brother wasn't optimistic it could be done, but I didn't take "wasn't optimistic it could be done" for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
+  copy_six="My brother wasn't optimistic it could be done, but I didn't take 'was not optimistic it could be done' for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
 
   subheadline_five="Managing Cookies and Do Not Track"
 
@@ -69,11 +69,11 @@ menu = []
 
   subheadline_thirteen="Strategic Partners; Service Providers"
 
-  copy_sixteen="My brother wasn't optimistic it could be done, but I didn't take "wasn't optimistic it could be done" for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
+  copy_sixteen="My brother wasn't optimistic it could be done, but I didn't take 'wasn not optimistic it could be done' for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
 
   subheadline_fourteen="Legal Requirements"
 
-  copy_seventeen="My brother wasn't optimistic it could be done, but I didn't take "wasn't optimistic it could be done" for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
+  copy_seventeen="My brother wasn't optimistic it could be done, but I didn't take 'wasn not optimistic it could be done' for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
 
   subheadline_fifteen="Your Choices"
 
@@ -93,7 +93,7 @@ menu = []
 
   subheadline_nineteen="Security"
 
-  copy_twentytwo="My brother wasn't optimistic it could be done, but I didn't take "wasn't optimistic it could be done" for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
+  copy_twentytwo="My brother wasn't optimistic it could be done, but I didn't take 'was not optimistic it could be done' for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
 
   subheadline_twenty="Other Terms and Conditions"
 
@@ -101,7 +101,7 @@ menu = []
 
   subheadline_twentyone="Changes to the Company Privacy Policy"
 
-  copy_twentyfour="My brother wasn't optimistic it could be done, but I didn't take "wasn't optimistic it could be done" for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
+  copy_twentyfour="My brother wasn't optimistic it could be done, but I didn't take 'was not optimistic it could be done' for an answer. Let me give that oatmeal some brown sugar. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap. Well, obviously, I'm not a big guy. I'm not a Carl Weathers, par example. I was hoping he would be gifted sexually."
 
   subheadline_twentytwo="Access to Information; Contacting Company"
 
