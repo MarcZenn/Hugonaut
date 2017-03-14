@@ -17,7 +17,7 @@ menu = ["main","features","side"]
 
   headline_two="Effortless Accuracy & Compliance"
 
-  copy_two="Tracking, reconciling, and reporting inventory becomes simple and fast with Weave inventory management. What use to take hours to track and reconcile, now can be done in minutes."
+  copy_two="Tracking, reconciling, and reporting inventory becomes simple and fast with Company inventory management. What use to take hours to track and reconcile, now can be done in minutes."
 
   headline_three="Intelligence Meets Simplicity & Speed"
 
@@ -33,10 +33,10 @@ menu = ["main","features","side"]
 
   headline_six="New Standards of Consistency"
 
-  copy_six="Weave has developed an extensive product catalog to help make adding products to inventory easier than ever. This means less time spent adding products manually eliminating data entry errors."
+  copy_six="Company has developed an extensive product catalog to help make adding products to inventory easier than ever. This means less time spent adding products manually eliminating data entry errors."
 
   headline_seven="METRC For Colorado Customers"
 
-  copy_seven="Weave works extensively with METRC to ensure integration is reliable, secure, and accurate. Our export functions will save your company hundreds of hours each year by automating routine update requirements."
+  copy_seven="Company works extensively with METRC to ensure integration is reliable, secure, and accurate. Our export functions will save your company hundreds of hours each year by automating routine update requirements."
 
  %}}

@@ -19,6 +19,6 @@ url   = "/views/team"
 
   headline_two="Meet The Team"
 
-  copy_three="Some copy about the culture at Weave, the work ethic, and what its like to be a team member....Go Buffs."
+  copy_three="Some copy about the culture at Company, the work ethic, and what its like to be a team member....Go Buffs."
 
 %}}
