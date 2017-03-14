@@ -1,11 +1,24 @@
-<nav>
-  <ul>
-    {{ range .Site.Menus.main }}
-    <li>
-      <p>
-        <a href="/views/{{ .Name }}">{{ .Name }}</a>
-      </p>
-    </li>
-    {{ end }}
-  </ul>
-</nav>
+<section class="nav-wrapper">
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <div class="nav mdl-layout__header">
+      <div class="mdl-layout__header-row">
+        <span class="mdl-layout-title"><a href="/">Weave</a></span>
+        <!-- Add spacer, to align navigation to the right -->
+        <div class="mdl-layout-spacer"></div>
+        <nav class="mdl-navigation mdl-layout--large-screen-only">
+          {{ range .Site.Menus.main }}
+            <a class="mdl-navigation__link" href="/views/{{ .Name }}">{{ .Name }}</a>
+          {{ end }}
+        </nav>
+      </div>
+    </div>
+    <div class="mdl-layout__drawer">
+      <span class="mdl-layout-title">Weave</span>
+      <nav class="mdl-navigation">
+        {{ range .Site.Menus.main }}
+          <a class="mdl-navigation__link" href="/views/{{ .Name }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
+    </div>
+  </div>
+</section>

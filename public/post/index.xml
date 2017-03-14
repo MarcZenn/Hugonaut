@@ -1,47 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Web Application Static Front End Hugo Boilerplate</title>
-    <link>http://example.com/post/index.xml</link>
-    <description>Recent content in Posts on Web Application Static Front End Hugo Boilerplate</description>
+    <title>Posts on Weave Static Website</title>
+    <link>http://weaveiq.com/post/index.xml</link>
+    <description>Recent content in Posts on Weave Static Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2017 12:53:58 -0700</lastBuildDate>
-    <atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Mar 2017 12:09:50 -0700</lastBuildDate>
+    <atom:link href="http://weaveiq.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>This is your third blog post</title>
-      <link>http://example.com/2017/this-is-your-third-blog-post</link>
+      <title>Third Blog Post</title>
+      <link>http://weaveiq.com/2017/third-blog-post</link>
+      <pubDate>Thu, 09 Mar 2017 12:09:50 -0700</pubDate>
+      
+      <guid>http://weaveiq.com/2017/third-blog-post</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://weaveiq.com/images/docker_symbol_logo.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Actually, that was a box of Oscar&amp;rsquo;s legally obtained medical marijuana. Primo bud. Real sticky weed. It&amp;rsquo;s so watery. And yet there&amp;rsquo;s a smack of ham to it. You must teach me the ways of the secular flesh. Well excuse me, Judge Reinhold! WHY was this show cancelled? I mean, COME ON. Could it be love? I know what an erection feels like, Michael. No, it&amp;rsquo;s the opposite. It&amp;rsquo;s like my heart is getting hard. Buster&amp;rsquo;s in what we like to call a light to no coma. In laymans terms, it might be considered a very heavy nap.&lt;/p&gt;
+
+&lt;p&gt;You burn down the storage unit? Oh, most definitely. It was for me. I was going to smoke the marijuana like a cigarette.&lt;/p&gt;
+
+&lt;p&gt;Oh, COME ON! I run a pretty tight ship around here. With a pool table. If you&amp;rsquo;re suggesting I play favorites, you&amp;rsquo;re wrong. I love all of my children equally. I don&amp;rsquo;t care for Gob. I want to cry so bad, but I don&amp;rsquo;t think I can spare the moisture. [sniffs hand] Oh, God. I&amp;rsquo;m going to run this through again on &amp;ldquo;pots and pans.&amp;rdquo; If that man&amp;rsquo;s straight, then I am sober. With spicy club sauce.&lt;/p&gt;
+
+&lt;p&gt;What do you expect, Mother? I&amp;rsquo;m half machine! I&amp;rsquo;m a monster!! Douche chill! You want to have some guy reach around you in the middle of the night, start messing with your junk? It looks like you&amp;rsquo;ve been looking for dragons… in the future. No, it&amp;rsquo;s the opposite. It&amp;rsquo;s like my heart is getting hard. Look at us, crying like a bunch of girls on the last day of camp. Although George Michael had only got to second base, he&amp;rsquo;d gone in head first, like Pete Rose.&lt;/p&gt;
+
+&lt;p&gt;Look, you are playing adults…with fully formed libidos, not 2 young men playing grab-ass in the shower. Well excuse me, Judge Reinhold. Do you guys know where I could get one of those gold necklaces with the T on it? That&amp;rsquo;s a cross. Across from where?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Blog Post</title>
+      <link>http://weaveiq.com/2017/second-blog-post</link>
       <pubDate>Sat, 11 Feb 2017 12:53:58 -0700</pubDate>
       
-      <guid>http://example.com/2017/this-is-your-third-blog-post</guid>
-      <description>
+      <guid>http://weaveiq.com/2017/second-blog-post</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://weaveiq.com/images/metrc.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
+&lt;p&gt;A night of heterosexual intercourse. Buster&amp;rsquo;s in what we like to call a light to no coma. In layman&amp;rsquo;s terms, it might be considered a very heavy nap.&lt;/p&gt;
+
+&lt;p&gt;They don&amp;rsquo;t allow you to have bees in here. Mission Accomplished. It&amp;rsquo;s OUR nausea. Chickens don&amp;rsquo;t clap!&lt;/p&gt;
+
+&lt;p&gt;Wow, this is the best free scrapbooking class I&amp;rsquo;ve ever taken! ps This one really cracks me up for some reason. Yes, Annyong. Your name is Annyong! We all know you&amp;rsquo;re Annyong! I made a huge tiny mistake. She&amp;rsquo;s always got to wedge herself in the middle of us so that she can control everything. Yeah. Mom&amp;rsquo;s awesome. I prematurely shot my wad on what was supposed to be a dry run..so now I&amp;rsquo;m afraid I have something of a mess on my hands. She calls it a Mayonegg. Coo coo ca chaw. Coo coo ca chaw. Got a big ass room at the travelodge. What a fun, sexy time for you.&lt;/p&gt;
+
+&lt;p&gt;Dad would stage elaborate situations using a one-armed man to teach us lessons. In fact, it was a box of Oscar&amp;rsquo;s legally obtained medical marijuana. Primo bud. Real sticky weed. Hey, look at that – you&amp;rsquo;re mean sober, too. Michael, I&amp;rsquo;m your older brother. I&amp;rsquo;ll never be proud of you. I know, I just call her Annabelle cause she&amp;rsquo;s shaped like a… she&amp;rsquo;s the belle of the ball! We all need to pick a day to try and make trend. Oh…yeah…the guy in the $4,000 suit is holding the elevator for a guy who doesn&amp;rsquo;t make that in three months. Come on! I may have committed some light treason.&lt;/p&gt;
+
+&lt;p&gt;[Stabbing Gob] White power! Gob: I&amp;rsquo;m white! The Man Inside Me seems well reviewed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>This is your second blog post</title>
-      <link>http://example.com/2017/this-is-your-second-blog-post</link>
-      <pubDate>Sat, 11 Feb 2017 12:53:55 -0700</pubDate>
-      
-      <guid>http://example.com/2017/this-is-your-second-blog-post</guid>
-      <description>
-
-&lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>This is your first blog post</title>
-      <link>http://example.com/2017/this-is-your-first-blog-post</link>
+      <title>First Blog Post</title>
+      <link>http://weaveiq.com/2017/first-blog-post</link>
       <pubDate>Sat, 11 Feb 2017 12:53:53 -0700</pubDate>
       
-      <guid>http://example.com/2017/this-is-your-first-blog-post</guid>
-      <description>
+      <guid>http://weaveiq.com/2017/first-blog-post</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://weaveiq.com/images/golang_gopher.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
+&lt;p&gt;Actually, that was a box of Oscar&amp;rsquo;s legally obtained medical marijuana. Primo bud. Real sticky weed. It&amp;rsquo;s so watery. And yet there&amp;rsquo;s a smack of ham to it. You must teach me the ways of the secular flesh. Well excuse me, Judge Reinhold! WHY was this show cancelled? I mean, COME ON. Could it be love? I know what an erection feels like, Michael. No, it&amp;rsquo;s the opposite. It&amp;rsquo;s like my heart is getting hard. Buster&amp;rsquo;s in what we like to call a light to no coma. In laymans terms, it might be considered a very heavy nap.&lt;/p&gt;
+
+&lt;p&gt;You burn down the storage unit? Oh, most definitely. It was for me. I was going to smoke the marijuana like a cigarette.&lt;/p&gt;
+
+&lt;p&gt;Oh, COME ON! I run a pretty tight ship around here. With a pool table. If you&amp;rsquo;re suggesting I play favorites, you&amp;rsquo;re wrong. I love all of my children equally. I don&amp;rsquo;t care for Gob. I want to cry so bad, but I don&amp;rsquo;t think I can spare the moisture. [sniffs hand] Oh, God. I&amp;rsquo;m going to run this through again on &amp;ldquo;pots and pans.&amp;rdquo; If that man&amp;rsquo;s straight, then I am sober. With spicy club sauce.&lt;/p&gt;
+
+&lt;p&gt;What do you expect, Mother? I&amp;rsquo;m half machine! I&amp;rsquo;m a monster!! Douche chill! You want to have some guy reach around you in the middle of the night, start messing with your junk? It looks like you&amp;rsquo;ve been looking for dragons… in the future. No, it&amp;rsquo;s the opposite. It&amp;rsquo;s like my heart is getting hard. Look at us, crying like a bunch of girls on the last day of camp. Although George Michael had only got to second base, he&amp;rsquo;d gone in head first, like Pete Rose.&lt;/p&gt;
+
+&lt;p&gt;Look, you are playing adults…with fully formed libidos, not 2 young men playing grab-ass in the shower. Well excuse me, Judge Reinhold. Do you guys know where I could get one of those gold necklaces with the T on it? That&amp;rsquo;s a cross. Across from where?&lt;/p&gt;
 </description>
     </item>
     

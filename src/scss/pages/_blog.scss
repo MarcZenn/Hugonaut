@@ -1,0 +1,115 @@
+.blog-list-content.mdl-grid {
+  padding: 0;
+
+  .hero {
+    text-align: center;
+    padding: 200px 0;
+    border-bottom: $base-border-lightgrey;
+    margin: 0 0 20px 0;
+    width: 100%;
+    background-color: #000000;
+    -webkit-box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
+    -moz-box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
+    box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
+
+    h2.title {
+      display: inline-block;
+      margin: 20px auto;
+      color: $weave-indigo-light;
+      font-family: $primary-headline-font;
+      font-size: $large;
+    }
+
+    p {
+      display: block;
+      margin: 5px auto;
+      color: $primary-white;
+      font-size: $regular;
+      font-family: $primary-subheadline-font;
+    }
+  }
+
+  ul.blog-listing {
+    list-style-type: none;
+    text-align: left;
+    padding: 0;
+
+    li.mdl-card {
+      display: inline-block;
+      width: 100%;
+      margin: 15px auto;
+      border-left: $base-border-lightgrey;
+
+      .mdl-card__title {
+        height: auto;
+        // background: url('.././images/catgrass.jpg') center / cover;
+
+        a {
+          color: $weave-indigo;
+          text-decoration: none;
+          font-family: $primary-link-font;
+          font-weight: 200;
+        }
+      }
+
+      .mdl-card__menu {
+        color: #fff;
+      }
+
+      &:hover {
+        background-color: $weave-indigo-light;
+
+        .mdl-card__title {
+
+          a {
+            color: $primary-white;
+          }
+        }
+      }
+    }
+  }
+}
+
+.single-blog-post-content {
+  display: block;
+  padding: 100px;
+
+  h2 {
+    color: $weave-indigo;
+  }
+
+  p {
+    color: $primary-grey;
+  }
+}
+
+.blog-tags-list {
+
+  p {
+    margin: 15px 0 0 35px;
+    font-family: $primary-subheadline-font;
+    font-weight: 200;
+    font-size: $regular;
+    padding: 5px;
+    width: 20%;
+    border-bottom: $base-border-lightgrey;
+  }
+
+  ul {
+    list-style-type: none;
+
+    li {
+      display: block;
+
+      a {
+        text-decoration: none;
+        color: $primary-grey;
+        font-family: $primary-link-font;
+        font-weight: 200;
+        font-size: $small;
+        position: relative;
+        z-index: 100;
+      }
+    }
+  }
+}

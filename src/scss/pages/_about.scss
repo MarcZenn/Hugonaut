@@ -1,0 +1,15 @@
+.about-content {
+  padding:100px;
+
+  h2 {
+    color: $weave-indigo;
+  }
+
+  p {
+    color: $primary-grey;
+  }
+
+  @media(max-width: 620px) {
+    padding: 100px 5px;
+  }
+}

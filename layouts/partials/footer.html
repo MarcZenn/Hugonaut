@@ -1,11 +1,54 @@
-  <footer>
-    <ul>
-      {{ range .Site.Menus.main }}
-      <li>
-        <p>
-          <a href="/views/{{ .Name }}">{{ .Name }}</a>
-        </p>
-      </li>
-      {{ end }}
+<footer class="footer mdl-mega-footer">
+  <div class="mdl-mega-footer__middle-section">
+    <div class="mdl-mega-footer__drop-down-section">
+      <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked>
+      <h1 class="mdl-mega-footer__heading">Weave</h1>
+      <ul class="mdl-mega-footer__link-list">
+        <li><img src="../.././images/weave_symbol_logo.png" /></li>
+      </ul>
+    </div>
+
+    <div class="mdl-mega-footer__drop-down-section">
+      <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked>
+      <h1 class="mdl-mega-footer__heading">Company</h1>
+      <ul class="mdl-mega-footer__link-list">
+        {{ range .Site.Menus.company }}
+          <li><a href="/views/{{ .Name }}">{{ .Name }}</a></li>
+        {{ end }}
+        <li><a href="/post">blog</a></li>
+      </ul>
+    </div>
+
+    <div class="mdl-mega-footer__drop-down-section">
+      <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked>
+      <h1 class="mdl-mega-footer__heading">Features</h1>
+      <ul class="mdl-mega-footer__link-list">
+        {{ range .Site.Menus.features }}
+          <li><a href="/views/{{ .Name }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="mdl-mega-footer__drop-down-section">
+      <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked>
+      <h1 class="mdl-mega-footer__heading">Contact</h1>
+      <ul class="mdl-mega-footer__link-list">
+        {{ range .Site.Menus.contact }}
+          <li><a href="/views/{{ .Name }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+
+
+  <div class="mdl-mega-footer__bottom-section">
+    <div class="mdl-logo">
+      <p><span><i class="material-icons">copyright</i></span> 2017 Weave LLC.</p>
+    </div>
+    <ul class="mdl-mega-footer__link-list">
+      <li>support@weaveiq.com</li>
+      <li>720-575-7030</li>
+      <li><a href="/views/privacy">Privacy Policy</a></li>
     </ul>
-  </footer>
+  </div>
+</footer>

@@ -1,31 +1,600 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Views on Web Application Static Front End Hugo Boilerplate</title>
-    <link>http://example.com/views/index.xml</link>
-    <description>Recent content in Views on Web Application Static Front End Hugo Boilerplate</description>
+    <title>Views on Weave Static Website</title>
+    <link>http://weaveiq.com/views/index.xml</link>
+    <description>Recent content in Views on Weave Static Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2017 10:51:28 -0700</lastBuildDate>
-    <atom:link href="http://example.com/views/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2017 16:41:11 -0600</lastBuildDate>
+    <atom:link href="http://weaveiq.com/views/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>/views/privacy-policy</title>
+      <link>http://weaveiq.com/views/privacy/</link>
+      <pubDate>Tue, 07 Mar 2017 16:41:11 -0600</pubDate>
+      
+      <guid>http://weaveiq.com/views/privacy/</guid>
+      <description>&lt;section class=&#34;privacy-content&#34;&gt;
+  &lt;div class=&#34;&#34;&gt;
+    &lt;h2 class=&#34;subheadline-general&#34;&gt;Weave Privacy and Policy&lt;/h2&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Welcome to the web site (the “Site”) of Weave, LLC. (“Weave”, “we”, “us” and/or “our”). This Site is operated by Weave and has been created to provide information about our company and merchant processing products and services (the “Products”) to you as a visitor to our Site and/or user of our Products (“you” and/or “your”). This Privacy Policy sets forth Weave’s policy with respect to information, including personally identifiable data (“Personal Data”), that is collected from visitors to the Site and users of the Products.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Information We Collect&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;When you interact with us through our Site or Products, we may collect Personal Data and other information from you, as further described below:&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Personal Data That You Provide Through the Site or Products&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, purchase a Product, register your Product or otherwise use certain Products. In addition, when you access or use a Product we may collect metrics on your activities, such as web pages visited, length of visit, and which features of our product you use. Wherever Weave collects Personal Data we make an effort to provide a link to this Privacy Policy.&lt;/p&gt;&lt;br /&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us through the Site or in connection with any Product or Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Weave and the authorized third parties referred to herein located in the United States.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Other Information&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Non-Identifiable Data: When you interact with Weave through the Site or any Product, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Weave may store such information itself or such information may be included in databases owned and maintained by Weave affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, the domain names of our visitors&amp;#39; Internet service providers and the use of our Products. It is important to note that no Personal Data is available or used in this process.&lt;/p&gt;&lt;br /&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;In operating the Site, we may use a technology called &amp;#39;cookies&amp;#39;. A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. However, these cookies are not required for site functionality and you are not required to accept any cookies to use this site. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features. As noted above, on most web browsers you may refuse the use of cookies by selecting the appropriate settings, however please note that if you do this you may not be able to use the full functionality of the Site. By using the Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. The Site also automatically captures IP addresses. Weave uses IP addresses to analyze trends, administer the Site, track user movement, ensure the security of your interaction with the Site and gather broad demographic information for aggregate use.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Managing Cookies and Do Not Track&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;You can inform the web services with which the Site or Products integrate (such as social buttons, widgets, and other embedded features or content) that you do not want certain information about your webpage visits to be collected. Enabling “Do Not Track” in your web browser settings is an easy way to accomplish this. The “Do Not Track” browser setting is supported by recent versions of major browsers, including Firefox 5&amp;#43;, Internet Explorer 9&amp;#43;, Safari 5.1&amp;#43;, and Google Chrome. Please consult www.donottrack.us on how to enable this privacy setting on your browser. You can also change the way your browser handles cookies. Already existing cookies can be deleted. Please consult www.allaboutcookies.org on how to manage or delete cookies in your browser.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Aggregated Personal Data&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;In an ongoing effort to better understand and serve the users of the Site and Products, Weave often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Weave may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Weave may also disclose aggregated user statistics in order to describe our Products to current and prospective business partners, and to other third parties for other lawful purposes.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Our Use of your Personal Data and Other Information&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to download or register a Product, we will use your Personal Data to permit you to conduct such activities. Weave and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data as well as personally non-identifiable information collected through the Site and Products to help us improve the content and functionality of the Site and Products, provide customers with Product updates, better understand our users and improve the Site and Products. Weave and its Related Companies may use this information to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to &amp;#39;opt-out&amp;#39; of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.&lt;/p&gt;&lt;br /&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;If Weave intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Weave Agents&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Certain of our Products utilize applications (agents) that collect and capture information from users of the Products.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Our Disclosure of Your Personal Data and Other Information&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Business Transfers&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Related Companies&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Agents, Consultants and Related Third Parties&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Strategic Partners; Service Providers&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave may make certain of your Personal Data available to third parties that Weave has a strategic relationship with or that perform work for Weave to provide the Products to you. These third parties may help Weave process information, fulfill orders, deliver Products, manage and enhance user data, provide customer service, assess your interest in Products or conduct user research and surveys. These companies are obligated to protect your Personal Data and may have their own privacy policies if you link to or access their websites or systems.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Legal Requirements&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Weave, (iii) act in urgent circumstances to protect the personal safety of users of the Site or Products or the public, or (iv) protect against legal liability.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Your Choices&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;You can visit certain portions of the Site and use certain portions of the Products without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain portions of the Site or Products.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Exclusions&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;This Privacy Policy does not apply to any Personal Data collected by Weave other than Personal Data collected through the Site or Products. This Privacy Policy will not apply to any unsolicited information you provide to Weave through the Site or Products or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information will be deemed to be non-confidential and Weave will be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Children&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site or Products. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Site or Products without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Weave through the Site or Products, please contact us, and we will endeavor to delete that information from our databases.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Third-Party Sites and Products&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;This Privacy Policy applies only to the Site and Products. The Site or Products may contain links to or otherwise interact with other web sites or products not operated or controlled by Weave (the “Third Party Sites/Products”), including third party add-ons, applications and other software that could track your usage or collect Personal Data. The policies and procedures we described here do not apply to the Third Party Sites/Products. We suggest contacting those third parties directly for information on their privacy policies.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Security&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave takes reasonable steps to protect the Personal Data provided via the Site and Products from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail or messages sent to or from the Site or Products may not be secure. Therefore, you should take special care in deciding what information you send to us. Please keep this in mind when disclosing any Personal Data to Weave via the Internet.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Other Terms and Conditions&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Your access to and use of the Site is subject to the End User Terms of Use and your use of any Product is subject to the applicable the end user terms and conditions for such Product.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Changes to the Weave Privacy Policy&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;The Site, our Products and our business may change from time to time. As a result, at times it may be necessary for Weave to make changes to this Privacy Policy. Weave reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated below. Your continued use of the Site or Products after any changes or revisions to this Privacy Policy will indicate your agreement with the terms of such revised Privacy Policy.&lt;/p&gt;&lt;br /&gt;
+    &lt;h3 class=&#34;subheadline-general&#34;&gt;Access to Information; Contacting Weave&lt;/h3&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site or Products.&lt;/p&gt;&lt;br /&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Please also feel free to contact us if you have any questions about Weave’s Privacy Policy or the information practices of the Site or Products. You may contact us as follows: support@Weave.com&lt;/p&gt;&lt;br /&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://weaveiq.com/views/faq/</link>
+      <pubDate>Sun, 26 Feb 2017 16:23:33 -0700</pubDate>
+      
+      <guid>http://weaveiq.com/views/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technologies</title>
+      <link>http://weaveiq.com/views/technologies</link>
+      <pubDate>Thu, 23 Feb 2017 15:37:36 -0700</pubDate>
+      
+      <guid>http://weaveiq.com/views/technologies</guid>
+      <description>&lt;content class=&#34;hidden modal-content explainer-video-modal&#34;&gt;
+  &lt;i id=&#34;close-explainer-modal&#34; class=&#34;material-icons&#34;&gt;close&lt;/i&gt;
+  &lt;div class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--12-col&#34;&gt;
+      &lt;div class=&#34;modal-media&#34;&gt;
+        &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/xcJtL7QggTI?rel=0&amp;amp;showinfo=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/content&gt;
+
+&lt;section class=&#34;hidden request-demo-modal modal-content&#34;&gt;
+  &lt;i id=&#34;close-demo-modal&#34; class=&#34;material-icons&#34;&gt;close&lt;/i&gt;
+  &lt;form action=&#34;#&#34; class=&#34;mdl-grid&#34;&gt;
+    &lt;img src=&#34;../.././images/weave_symbol_logo.png&#34; /&gt;
+    &lt;h1&gt;Schedule A Demo&lt;/h1&gt;
+    &lt;div class=&#34;mdl-textfield mdl-js-textfield mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;input class=&#34;mdl-textfield__input&#34; type=&#34;text&#34; id=&#34;sample1&#34;&gt;
+      &lt;label class=&#34;mdl-textfield__label&#34; for=&#34;sample1&#34;&gt;First Name...&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-textfield mdl-js-textfield mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;input class=&#34;mdl-textfield__input&#34; type=&#34;text&#34; id=&#34;sample1&#34;&gt;
+      &lt;label class=&#34;mdl-textfield__label&#34; for=&#34;sample1&#34;&gt;Last Name...&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-textfield mdl-js-textfield mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;input class=&#34;mdl-textfield__input&#34; type=&#34;text&#34; id=&#34;sample1&#34;&gt;
+      &lt;label class=&#34;mdl-textfield__label&#34; for=&#34;sample1&#34;&gt;Email Address...&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-textfield mdl-js-textfield mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;input class=&#34;mdl-textfield__input&#34; type=&#34;text&#34; id=&#34;sample1&#34;&gt;
+      &lt;label class=&#34;mdl-textfield__label&#34; for=&#34;sample1&#34;&gt;Phone Number...&lt;/label&gt;
+    &lt;/div&gt;
+  &lt;/form&gt;
+&lt;/section&gt;
+
+
+&lt;section class=&#34;technologies-content&#34;&gt;
+  &lt;section class=&#34;base-weave-section mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Near Zero Downtime&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;We have designed the industry&amp;#39;s most secure, reliable, and scalable solution. We deliver it at a fraction of the cost of every other available product in the marketplace utilizing Google&amp;#39;s cloud infrastructure. At the same time, we perform all mission critical traceability functions for merchant transactions.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Built with Speed in Mind&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Our industry standard setting software is designed to be highly scalable implementing the latest in front end and back end software design. Weave is putting legacy system designs to rest with a modern approach to technology stack design.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Highly Available Cloud Infrastructure&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Our technology backbone is deployed on the Google cloud. This ensures maximum uptime and unprecedented reliability. Downtime means lost revenue, customer dissatisfaction, and frustrated employees. Weave&amp;#39;s reliability changes this.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;img src=&#34;../.././images/google_hex.png&#34; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;img src=&#34;../.././images/https_badge.png&#34; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Safe Connections End to End&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Weave is encapsulated by the latest TLS standards to ensure end to end encryption of sensitive patient and user information. Users are prompted for pin number and login credentials to ensure all critical functions are made by authorized individuals only.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;State of the Art, Modern Tools&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Weave Engineers leverage Golang, Google&amp;#39;s advanced programming language. This ensures that our customers receive the most elegant and highly responsive user experience possible. At every turn, we engineer the highest possible standards of excellence in all aspects of our development process. It all starts with great tools and we only use the best.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;img src=&#34;../.././images/golang_gopher.png&#34; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;main-cta mdl-shadow--2dp&#34;&gt;
+  &lt;div class=&#34;mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet&#34;&gt;
+      &lt;button id=&#34;show-demo-modal&#34; class=&#34;mdl-button mdl-js-button mdl-button--primary copy-general&#34;&gt;
+        see it in action
+      &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet&#34;&gt;
+      &lt;button id=&#34;show-demo-form&#34; class=&#34;mdl-button mdl-js-button mdl-button--primary copy-general&#34;&gt;
+        schedule a demo
+      &lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Reliable &amp;amp; Integrated&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Weave Sales Optimization supports hardware solutions for common point of sale operations including label, receipt, and barcode printers. In addition, it integrates with wireless barcode scanners.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>team</title>
+      <link>http://weaveiq.com/views/team</link>
+      <pubDate>Thu, 23 Feb 2017 15:37:20 -0700</pubDate>
+      
+      <guid>http://weaveiq.com/views/team</guid>
+      <description>&lt;section class=&#34;team-content&#34;&gt;
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Join a Movement that Values Your IQ&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;We believe the next generation of software will create a quantum leap forward in the world because it will assess the information it can access and participate in the process of helping people make great decisions. To pull this off, we are bringing together people with exceptional drive, uncompromising values, insatiable curiosity, and an unwavering work ethic. We believe there are many of you out there that understand what we mean.&lt;/p&gt;&lt;br /&gt;
+        &lt;a href=&#34;https://angel.co&#34;&gt;Do you want to do your life’s best work? We want to meet you. &lt;i class=&#34;material-icons&#34;&gt;keyboard_arrow_right&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;img src=&#34;../.././images/angellist_logo.png&#34; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Meet The Team&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Some copy about the culture at Weave, the work ethic, and what its like to be a team member....Go Buffs.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>stories</title>
+      <link>http://weaveiq.com/views/stories</link>
+      <pubDate>Thu, 23 Feb 2017 15:37:05 -0700</pubDate>
+      
+      <guid>http://weaveiq.com/views/stories</guid>
+      <description>&lt;section class=&#34;stories-content&#34;&gt;
+  &lt;section class=&#34;base-weave-section mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Garrett Cropsey, General Manager&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;I think that all cannabis is medicinal cannabis and the simplicity of Weave makes it possible to maximize the time spent giving customers exactly what they need. Weave has streamlined many aspects of managing a dispensary leaving more time to focus upon running a successful business.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;img src=&#34;../.././images/HQ_logo.png&#34; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Greg Denaro, Manager&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;With the addition of Weave into my daily activities, time is saved by redistributing labor to more important tasks with significantly less employee error throughout shifts. The ability to work with a streamlined system encourages less time spent completing tasks such as tracking products and sales. Weave handles everything for the user.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;img src=&#34;../.././images/peaceful_choice_logo.png&#34; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/section&gt;
+
+</description>
+    </item>
     
     <item>
       <title>products</title>
-      <link>http://example.com/views/products</link>
-      <pubDate>Mon, 13 Feb 2017 10:51:28 -0700</pubDate>
+      <link>http://weaveiq.com/views/products</link>
+      <pubDate>Thu, 23 Feb 2017 15:36:49 -0700</pubDate>
       
-      <guid>http://example.com/views/products</guid>
-      <description>&lt;p&gt;some content&lt;/p&gt;
+      <guid>http://weaveiq.com/views/products</guid>
+      <description>&lt;content class=&#34;hidden modal-content explainer-video-modal&#34;&gt;
+  &lt;i id=&#34;close-explainer-modal&#34; class=&#34;material-icons&#34;&gt;close&lt;/i&gt;
+  &lt;div class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--12-col&#34;&gt;
+      &lt;div class=&#34;modal-media&#34;&gt;
+        &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/xcJtL7QggTI?rel=0&amp;amp;showinfo=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/content&gt;
+
+&lt;section class=&#34;hidden request-demo-modal modal-content&#34;&gt;
+  &lt;i id=&#34;close-demo-modal&#34; class=&#34;material-icons&#34;&gt;close&lt;/i&gt;
+  &lt;form action=&#34;#&#34; class=&#34;mdl-grid&#34;&gt;
+    &lt;img src=&#34;../.././images/weave_symbol_logo.png&#34; /&gt;
+    &lt;h1&gt;Schedule A Demo&lt;/h1&gt;
+    &lt;div class=&#34;mdl-textfield mdl-js-textfield mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;input class=&#34;mdl-textfield__input&#34; type=&#34;text&#34; id=&#34;sample1&#34;&gt;
+      &lt;label class=&#34;mdl-textfield__label&#34; for=&#34;sample1&#34;&gt;First Name...&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-textfield mdl-js-textfield mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;input class=&#34;mdl-textfield__input&#34; type=&#34;text&#34; id=&#34;sample1&#34;&gt;
+      &lt;label class=&#34;mdl-textfield__label&#34; for=&#34;sample1&#34;&gt;Last Name...&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-textfield mdl-js-textfield mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;input class=&#34;mdl-textfield__input&#34; type=&#34;text&#34; id=&#34;sample1&#34;&gt;
+      &lt;label class=&#34;mdl-textfield__label&#34; for=&#34;sample1&#34;&gt;Email Address...&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-textfield mdl-js-textfield mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;input class=&#34;mdl-textfield__input&#34; type=&#34;text&#34; id=&#34;sample1&#34;&gt;
+      &lt;label class=&#34;mdl-textfield__label&#34; for=&#34;sample1&#34;&gt;Phone Number...&lt;/label&gt;
+    &lt;/div&gt;
+  &lt;/form&gt;
+&lt;/section&gt;
+
+
+
+&lt;section class=&#34;products-content&#34;&gt;
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Profit Driving Products with an IQ&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Products should do more than keep track of inventory, ensure a business remains compliant, and process transactions. Products should think and make suggestions, point out imperfections, and provide ideas that make the business more competitive. Our products help customers take a quantum leap forward.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col&#34;&gt;
+
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;main-cta mdl-shadow--2dp&#34;&gt;
+  &lt;div class=&#34;mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet&#34;&gt;
+      &lt;button id=&#34;show-demo-modal&#34; class=&#34;mdl-button mdl-js-button mdl-button--primary copy-general&#34;&gt;
+        see it in action
+      &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet&#34;&gt;
+      &lt;button id=&#34;show-demo-form&#34; class=&#34;mdl-button mdl-js-button mdl-button--primary copy-general&#34;&gt;
+        schedule a demo
+      &lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+
+  &lt;section class=&#34;feature-tiles mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;assignment&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;Stress Free Inventory&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Add/adjust inventory easily with our scan-only based system.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;backup&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;Robust, Fast Reporting&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Analyze any data quickly and easily to optimize the performance of your business.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;shopping_cart&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;Increased Sales&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Fast checkout times leveraging scanning technology to increase sales and improve profitability.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;restore&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;Reliable Uptime&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Our infrastructure will result in near zero downtime giving you the confidence that mission critical systems are operational.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;settings&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;Integrated Hardware&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Easy plug n&#39; play options for reliability across many devices.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;perm_phone_msg&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;Support&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Our team will deliver world-class support whenever you need it.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;verified_user&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;Traceability Compliance&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Weave is a Certified vendor for state marijuana compliance systems streamlining your reporting requirements.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;developer_board&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;API Ecosystem&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Build apps on our platform or work with third parties to create something special with our API&#39;s.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;f-tile mdl-card mdl-shadow--2dp&#34;&gt;
+        &lt;i class=&#34;material-icons&#34;&gt;phonelink&lt;/i&gt;
+        &lt;div class=&#34;mdl-card__title mdl-card--expand&#34;&gt;
+          &lt;h2 class=&#34;mdl-card__title-text&#34;&gt;Intuitive Interface&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;mdl-card__supporting-text&#34;&gt;
+          Train new employees on Weave in a matter of hours, not days or weeks.
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Effortless Accuracy &amp;amp; Compliance&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Tracking, reconciling, and reporting inventory becomes simple and fast with Weave inventory management. What use to take hours to track and reconcile, now can be done in minutes.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Intelligence Meets Simplicity &amp;amp; Speed&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Processing a transaction is simple, fast, accurate, and brings a new level of accountability to the business. Our transaction platform is 2 to 3 times faster than any other solution and brings a new level of precision to ensure compliance.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;For Maximum Sales Velocity&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Introducing the industry&amp;#39;s most comprehensive and flexible incentive pricing platform to maximize profits. It will satisfy your diverse requirements and accommodate the diversity of discounts and incentivized pricing options you offer your customers.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;Full Medical Support&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Easily maintain your patient records. Edit and update information with ease, search by name or by medical ID number, and manage the patient check-in process with ease.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;New Standards of Consistency&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Weave has developed an extensive product catalog to help make adding products to inventory easier than ever. This means less time spent adding products manually eliminating data entry errors.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section class=&#34;base-weave-section mdl-grid grey-background&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;METRC For Colorado Customers&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;Weave works extensively with METRC to ensure integration is reliable, secure, and accurate. Our export functions will save your company hundreds of hours each year by automating routine update requirements.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;img src=&#34;../.././images/metrc.png&#34; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+&lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>terms of use</title>
+      <link>http://weaveiq.com/views/terms-of-use</link>
+      <pubDate>Thu, 23 Feb 2017 15:36:41 -0700</pubDate>
+      
+      <guid>http://weaveiq.com/views/terms-of-use</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://weaveiq.com/views/contact</link>
+      <pubDate>Thu, 23 Feb 2017 15:36:18 -0700</pubDate>
+      
+      <guid>http://weaveiq.com/views/contact</guid>
+      <description>&lt;section class=&#34;contact-content&#34;&gt;
+  &lt;section class=&#34;base-weave-section mdl-grid&#34;&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      &lt;div class=&#34;base-weave-section-copy&#34;&gt;
+        &lt;h2 class=&#34;subheadline-general&#34;&gt;How Can We Serve You Today?&lt;/h2&gt;
+        &lt;p class=&#34;copy-general&#34;&gt;For customers that are experiencing issues with the use of Weave products, kindly write or phone us immediately. It is our top priority to solve your problem. We also want to hear from you about how we might improve our offerings. We call this progress and innovation and we value your ideas. If you are a 3rd party company in our ecosystem and want to partner with us to build companion applications, we’d love to hear from you. Thank you for reaching out to us today.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet&#34;&gt;
+      
+    &lt;/div&gt;
+  &lt;/section&gt;
+&lt;/section&gt;
+
 </description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://example.com/views/about</link>
-      <pubDate>Mon, 13 Feb 2017 10:46:27 -0700</pubDate>
+      <link>http://weaveiq.com/views/about</link>
+      <pubDate>Thu, 23 Feb 2017 11:27:35 -0700</pubDate>
       
-      <guid>http://example.com/views/about</guid>
-      <description>&lt;p&gt;some content&lt;/p&gt;
+      <guid>http://weaveiq.com/views/about</guid>
+      <description>&lt;section class=&#34;about-content&#34;&gt;
+  &lt;div class=&#34;base-weave-section&#34;&gt;
+    &lt;h2 class=&#34;subheadline-general&#34;&gt;The Weave Story&lt;/h2&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave’s journey began in 2014, when amendment 64 passed in Colorado and recreational cannabis use was legalized. Our Founder’s came from successful exits in technology startups and careers in enterprise and mobile software. An introduction to a local medical cannabis business operator opened our eyes to the cumbersome, antiquated, and broken workflows needed to stay compliant with new regulations. METRC established the traceability system that cannabis entities were required to use, but there was a lack of internal tracking, operations, and reporting for these businesses to thrive. After interviewing countless operators and owners, Weave saw a great opportunity to build a robust, scalable platform for inventory management and all aspect of resource planning.&lt;/p&gt;&lt;br /&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;Weave believed the industry deserved better systems, and in 2015, pivoted the company from building consumer applications on top of existing cannabis platforms to first build a point of sale product that would set the standard for years to come. Weave was fortunate in gaining support from one of the largest technology companies in the world, Google. In 2015, utilizing Google’s infrastructure and technologies, was able to build one of the world’s most advanced and modern inventory management systems. The company has always been predicated on building world-class products and making our customers smile. Starting in late 2016, cannabis retailers that are licensed with their state are able to now forget their inventory woes and complicated compliance regulations by partnering with us.&lt;/p&gt;&lt;br /&gt;
+    &lt;p class=&#34;copy-general&#34;&gt;At Weave, we believe in legalization, but more importantly, we believe that the right technology is needed to bring transparency to an industry that has thrived in criminal corners of the country in the past. Our world is evolving and progressing and it is Weave’s mission to become the backbone for an industry that needs stability, transparency, compliance, innovation, and support.&lt;/p&gt;&lt;br /&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
 </description>
     </item>
     

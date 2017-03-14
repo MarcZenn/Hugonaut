@@ -1,6 +1,8 @@
 +++
 title = ""
-date = ""
-menu = ""
+date  = ""
+menu  = ["main", "footer", "side"]
+type  = ""
+url   = ""
 
 +++

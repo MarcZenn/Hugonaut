@@ -1,9 +1,132 @@
-{{ partial "header.html" . }}
-{{ partial "nav.html" . }}
+<!-- TODO:: Fight the FOUC on home page! will need help -->
+<!-- TODO:: setup googleAnalytics -->
+<!-- TODO:: Get home hero image, logos, team pics, gifs, favicon, demo vids, and email destinations -->
+<!-- TODO:: Amazon S3 deployment -->
+<!-- TODO:: Blog list image per blog & Tag links not working -->
+<!-- TODO:: Site needs more Calls to Action for pre-defined actions like "learn more"  -->
 
-<p>
-  hello world
-</p>
+{{ partial "header.html" . }}
+{{ partial "explainer_modal.html" . }}
+{{ partial "demo_modal.html" . }}
+
+<content class="home-content">
+  <section class="fouc home-hero mdl-layout mdl-js-layout">
+    <div class="mdl-layout__header mdl-layout__header--transparent">
+      <div class="mdl-layout__header-row">
+        <span class="mdl-layout-title"><a href="/">Weave</a></span>
+        <div class="mdl-layout-spacer"></div>
+        <nav class="mdl-navigation">
+        {{ range .Site.Menus.main }}
+          <a class="copy-general mdl-navigation__link" href="/views/{{ .Name }}">{{ .Name }}</a>
+        {{ end }}
+        </nav>
+      </div>
+    </div>
+    <div class="mdl-layout__drawer">
+      <span class="mdl-layout-title">Menu</span>
+      <nav class="mdl-navigation">
+        {{ range .Site.Menus.side }}
+          <a class="mdl-navigation__link" href="/views/{{ .Name }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
+    </div>
+    <main class="mdl-layout__content">
+      <h1 class="headline-general ">Introducing The Cannabis Industry's<br />Smartest Software</h1>
+    </main>
+  </section>
+
+  <section class="home-cta">
+    <div class="mdl-grid">
+      <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
+        <button id="show-demo-modal" class="mdl-button mdl-js-button mdl-button--primary copy-general">
+          see it in action
+        </button>
+      </div>
+      <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
+        <button id="show-demo-form" class="mdl-button mdl-js-button mdl-button--primary copy-general">
+          schedule a demo
+        </button>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="base-weave-section mdl-grid grey-background">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">Not Just a Point of Sale System</h2>
+        <p class="copy-general">Introducing Weave Sales Optimization, our extraordinary Point of Sale platform. It is the first product in our ERP lineup. It will transform how your business delivers results.</p>
+        <a href="/views/products">Smart Software That Saves You Time <i class="material-icons">keyboard_arrow_right</i></a>
+      </div>
+    </div>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet base-weave-section-copy">
+      <iframe src="//giphy.com/embed/XA4OlY7rnO3vO?html5=true" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    </div>
+  </section>
+
+  <section class="base-weave-section mdl-grid">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <img src="../.././images/storytelling.png" />
+      </div>
+    </div>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">A New Voice Emerges</h2>
+        <p class="copy-general">We discovered that the majority of companies operating in this industry are dissatisfied with the technology they are using. They tell us it is too complicated and too unreliable. Our contribution will turn this reality upside down.</p>
+        <a href="/views/stories">Explore Transforming Stories <i class="material-icons">keyboard_arrow_right</i></a>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="base-weave-section mdl-grid grey-background">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">Lightning Fast, Reliable, Secure</h2>
+        <p class="copy-general">Weave's solutions are paired with Google's industry leading cloud platform, secure infrastructure, and elegant user interface standards to deliver speed, reliability, and ease of use.</p>
+        <a href="/views/products">Learn How our Technology Will Transform Your World <i class="material-icons">keyboard_arrow_right</i></a>
+      </div>
+    </div>
+
+    <div class="feature-tiles-mini-wrapper mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="feature-tiles-mini mdl-grid">
+        <div class="mdl-cell mdl-cell--4-col">
+          <div class="f-tile-mini docker-tile mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand"></div>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--4-col">
+          <div class="f-tile-mini gopher-tile mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand"></div>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--4-col">
+          <div class="f-tile-mini react-tile mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand"></div>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--4-col">
+          <div class="f-tile-mini wheel-tile mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand"></div>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--4-col">
+          <div class="f-tile-mini google-hex-tile wheel-tile mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand"></div>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--4-col">
+          <div class="f-tile-mini neo4j-tile mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</content>
+
+
 
 {{ partial "footer.html" . }}
 {{ partial "ender.html" . }}

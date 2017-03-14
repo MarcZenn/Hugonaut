@@ -1,0 +1,35 @@
+/*
+-------------------------------------------
+Colors Mixins
+----------------------------------------------
+*/
+@mixin weaveIndigoGradient {
+  background: $weave-indigo; /* Old browsers */
+  background: -moz-linear-gradient(left,  $weave-indigo 0%, #207CCA 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  $weave-indigo 0%,#207CCA 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  $weave-indigo 0%,#207CCA 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2eaf9f', endColorstr='#207CCA',GradientType=1 ); /* IE6-9 */
+}
+
+
+@mixin weaveIndigoFontGradient {
+  -webkit-background-clip: text;
+  background-image: -webkit-linear-gradient(left, #2ffcc9, $weave-indigo);
+  background-image: linear-gradient(to right, #2ffcc9, $weave-indigo);
+  -webkit-text-fill-color: transparent;
+}
+
+/*
+-------------------------------------------
+Alignment Mixins
+----------------------------------------------
+*/
+@mixin verticallyCenter {
+    height: 100vh;
+    display: table-cell;
+    vertical-align: middle;
+
+    @media(max-width: 840px) {
+      height: auto;
+    }
+}

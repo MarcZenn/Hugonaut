@@ -1,0 +1,127 @@
+.base-weave-section {
+  padding: 10px 15px;
+  height: 100vh;
+  margin: 0;
+
+  div {
+    position: relative;
+    padding: 5px 20px;
+
+    .base-weave-section-copy {
+      @include verticallyCenter;
+
+      h2 {
+        padding: 5px 0;
+        @include weaveIndigoFontGradient;
+      }
+
+      p {
+        color: $primary-grey;
+        font-size: $regular;
+      }
+
+      a {
+        text-decoration: none;
+        font-family: $primary-link-font;
+        font-size: $regular;
+
+        i {
+          position: relative;
+          top: 6px;
+        }
+      }
+
+      img {
+        width: 450px;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+      }
+    }
+
+
+    .giphy-embed {
+      @include verticallyCenter;
+    }
+  }
+
+  @media(max-width: 840px) {
+    height: auto;
+
+    .base-weave-section-copy {
+      padding: 0 15px;
+      height: auto;
+      padding: 75px 0 0 0;
+    }
+  }
+}
+
+.modal-content {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  height: 100%;
+  text-align: center;
+  background: #494747;
+  width: 100%;
+
+  i {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: $primary-white;
+    font-size: $large;
+    z-index: 110;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+
+.explainer-video-modal {
+  opacity: 0.95;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+
+  .modal-media {
+    padding: 75px 0 0 0;
+
+    iframe {
+      display: inline-block;
+    }
+  }
+}
+
+.request-demo-modal {
+  opacity: 0.95;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+
+  form {
+    background-color: $primary-white;
+    border: $base-border-indigo;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 75px 100px 75px;
+    margin: 100px 200px;
+
+    img {
+      display: block;
+      margin: 5px auto;
+      width: 75px;
+    }
+
+    h1 {
+      font-size: $large;
+      font-family: $primary-headline-font;
+      color: $weave-indigo;
+      font-weight: 200;
+      margin: 0 auto 25px auto;
+    }
+  }
+}

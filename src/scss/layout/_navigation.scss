@@ -1,0 +1,42 @@
+.nav-wrapper {
+
+  i {
+    color: $weave-red;
+  }
+
+  .nav, .mdl-layout__drawer-button  {
+    background-color: $primary-white;
+    text-transform: capitalize;
+    color: $weave-indigo;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    position: fixed;
+    border: none;
+    padding: 20px 0;
+
+    span, a {
+      text-decoration: none;
+    }
+
+    a.mdl-navigation__link {
+      color: $weave-red;
+      font-family: $primary-link-font;
+      font-size: $regular;
+
+      &:hover {
+        border-bottom: 1px solid $weave-indigo;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .mdl-layout__drawer-button {
+    top: 2px;
+  }
+
+  @media (max-width: 565px) {
+    .mdl-layout__container {
+      margin: 0 0 115px 0;
+    }
+  }
+}

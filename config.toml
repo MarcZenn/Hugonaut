@@ -4,9 +4,9 @@
 config                               = "config.toml"
 metaDataFormat                       = "toml" # "yaml", "toml", "json"
 languageCode                         = "en-us"
-defaultContentLanguage               = "en"
-title                                = "Web Application Static Front End Hugo Boilerplate"
-baseurl                              = "http://example.com/"
+defaultContentLanguage               = "en-us"
+title                                = "Weave Static Website"
+baseurl                              = "http://weaveiq.com/"
 googleAnalytics                      = ""     # Google Analytics tracking id
 archetypeDir                         = "archetypes"
 staticDir                            = "static"
@@ -20,12 +20,13 @@ enableMissingTranslationPlaceholders = false  # Show a placeholder instead of th
 
 
 [params]
-    AuthorName = "Marcos Martinez"
-    SiteDesc = "Web Application Static Front End Hugo Boilerplate"
+    AuthorName         = "Marcos Martinez"
+    SiteDesc           = "Weave Static Website"
+    tags               = ["updates", "community", "news", "industry", "technology"]
+    googleFontFamilies = "Raleway|Dosis|Lato|Josefin Sans|Abel|Material Icons" # for more fonts visit: https://fonts.google.com. For more fonts visit: https://material.io/icons/ Do NOT remove "Material Icons" fonts
 
 [taxonomies]
-    category = "categories"
-    tag = "tags"
+    category           = "categories"
 
 [permalinks]
     post = "/:year/:slug"

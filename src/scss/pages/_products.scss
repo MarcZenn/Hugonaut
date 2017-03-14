@@ -1,0 +1,44 @@
+.products-content {
+
+  .feature-tiles {
+    h2.headline-general {
+      text-align: center;
+      margin: 20px auto;
+      color: $weave-indigo;
+    }
+
+    div {
+      padding: 10px;
+      border-radius: 2px;
+
+      .f-tile.mdl-card {
+        width: 320px;
+        height: 320px;
+        text-align: center;
+        margin: 0 auto;
+        padding: 0;
+
+        h2 {
+          color: $weave-indigo;
+          margin: 0 auto;
+        }
+
+        i {
+          font-size: 100px;
+          color: $weave-red;
+          margin: 75px auto 0 auto;
+          opacity: 0.85;
+        }
+
+        .mdl-card__supporting-text {
+          padding: 0 10px 10px 10px;
+        }
+      }
+      .f-tile > .mdl-card__title {
+        color: #fff;
+        border: none;
+        background-color: $primary-white
+      }
+    }
+  }
+}

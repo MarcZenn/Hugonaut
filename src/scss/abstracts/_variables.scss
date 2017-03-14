@@ -1,1 +1,49 @@
-$primary-white : #F5F5F5;
+/*
+-------------------------------------------
+Primary Colors
+----------------------------------------------
+*/
+
+$primary-white         : #FFF;
+$primary-black         : #000;
+$primary-lightgrey     : #F5F5F5;
+$primary-grey          : #919695;
+$weave-indigo          : #2EAF9F;
+$weave-red             : #FF4081;
+$weave-indigo-light    : #48D6C3;
+
+/*
+-------------------------------------------
+Primary Fonts
+----------------------------------------------
+*/
+
+$primary-copy-font        : Abel, sans-serif;
+$primary-headline-font    : Josefin Sans, sans-serif;
+$primary-subheadline-font : Raleway, sans-serif;
+$primary-link-font        : Josefin Sans, sans-serif;
+
+
+/*
+-------------------------------------------
+Primary Font Sizes
+----------------------------------------------
+*/
+
+$muted                     : 12px;
+$small                     : 15px;
+$regular                   : 20px;
+$medium                    : 35px;
+$large                     : 50px;
+
+
+/*
+-------------------------------------------
+Border Sizes
+----------------------------------------------
+*/
+
+$base-border-white         : 1px solid $primary-white;
+$base-border-lightgrey     : 1px solid $primary-lightgrey;
+$base-border-indigo        : 1px solid $weave-indigo;
+$base-border-grey          : 1px solid $primary-grey;

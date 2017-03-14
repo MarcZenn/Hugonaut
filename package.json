@@ -1,27 +1,29 @@
 {
-  "name": "Hugoplate",
+  "name": "WeaveStatic",
   "version": "1.0.0",
-  "description": "Web Application Static Front End Hugo Boilerplate",
+  "description": "Weave Static Web Application",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarcZenn/Hugoplate.git"
+    "url": ""
   },
   "keywords": [],
   "author": "Marcos Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MarcZenn/Hugoplate/issues"
+    "url": ""
   },
   "dependencies": {},
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
     "gulp-hash": "^4.0.1",
+    "gulp-imagemin": "^3.1.1",
     "gulp-sass": "^3.1.0"
   }
 }

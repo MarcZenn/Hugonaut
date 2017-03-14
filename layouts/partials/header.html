@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-fouc" lang="en">
 <head>
-  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
   <title>{{.Title}}</title>
-  <!-- give us the value in .Site.Data that has index main.css -->
-  <link rel="stylesheet" href="/css/{{ index .Site.Data.css.hash "main.css" }}" />
+  <!-- give us the value in .Site.Data (data dir) that has index main.css -->
+  <link rel="stylesheet" href="/css/{{index .Site.Data.css.hashcss "main.css"}}" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ .Site.Params.googleFontFamilies }}">
+  <!-- give us the value in .Site.Data (data dir) that has index main.js -->
+  <script type="text/javascript" src="/js/{{index .Site.Data.js.hashjs "main.js"}}"></script>
 </head>
 <body>

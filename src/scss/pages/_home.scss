@@ -1,0 +1,111 @@
+.home-content {
+
+  .mdl-layout__container {
+    top: 0;
+    height: 100vh;
+    background-color: $primary-black;
+
+    .home-hero {
+        background: url('.././images/catgrass.jpg') center / cover;
+        background-repeat: no-repeat;
+        position: relative;
+        top: 0;
+
+      .mdl-layout__header, .mdl-layout__drawer-button  {
+        text-transform: capitalize;
+
+        span, a {
+          color: #FF4081;
+          text-decoration: none;
+        }
+
+        a:hover {
+          border-bottom: $base-border-white;
+        }
+      }
+
+      .mdl-layout__content {
+        text-align: center;
+        color: $primary-white;
+        margin: 140px 0 0 0;
+      }
+    }
+  }
+
+  section.home-cta {
+    margin-top: 86vh;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    opacity: 0.85;
+
+    div {
+      margin: 0;
+      background-color: $primary-white;
+      padding: 10px 0;
+
+      button {
+        color: $primary-grey;
+        font-size: $regular;
+        height: auto;
+        padding: 10px 0;
+        border-radius: 0;
+        margin: 0;
+        width: 100%;
+
+        &:hover {
+          background-color: $primary-white
+        }
+      }
+      div:hover {
+        button {
+          color: $weave-indigo;
+        }
+      }
+    }
+    div:first-of-type {
+      border-right: $base-border-indigo;
+    }
+  }
+
+  .feature-tiles-mini-wrapper {
+    padding: 200px 0;
+
+    .feature-tiles-mini {
+
+      .mdl-cell {
+
+        .f-tile-mini {
+          padding: 45px;
+          background-color: $primary-white;
+
+          @media(max-width: 840px) {
+            padding: 50px 30px;
+          }
+        }
+        .docker-tile {
+          background: url('.././images/docker_symbol_logo.png') center / cover;
+        }
+        .gopher-tile {
+          background: url('.././images/gopher_tile.png') center / cover;
+        }
+        .react-tile {
+          background: url('.././images/react_tile.png') center / cover;
+        }
+        .wheel-tile {
+          background: url('.././images/wheel_tile.png') center / cover;
+        }
+        .google-hex-tile {
+          background: url('.././images/google_hex_tile.png') center / cover;
+        }
+        .neo4j-tile {
+          background: url('.././images/neo4j_tile.png') center / cover;
+        }
+      }
+    }
+
+    @media(max-width: 840px) {
+      padding: 0;
+    }
+  }
+}

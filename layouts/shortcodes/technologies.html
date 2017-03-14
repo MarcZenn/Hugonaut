@@ -1,0 +1,82 @@
+{{ partial "explainer_modal.html" . }}
+{{ partial "demo_modal.html" . }}
+
+<section class="technologies-content">
+  <section class="base-weave-section mdl-grid grey-background">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">{{ .Get "headline_one"}}</h2>
+        <p class="copy-general">{{ .Get "copy_one" }}</p>
+      </div>
+    </div>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+    </div>
+  </section>
+
+  <section class="base-weave-section mdl-grid">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+
+    </div>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">{{ .Get "headline_two"}}</h2>
+        <p class="copy-general">{{ .Get "copy_two" }}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="base-weave-section mdl-grid grey-background">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">{{ .Get "headline_three"}}</h2>
+        <p class="copy-general">{{ .Get "copy_three" }}</p>
+      </div>
+    </div>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <img src="../.././images/google_hex.png" />
+      </div>
+    </div>
+  </section>
+
+  <section class="base-weave-section mdl-grid">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <img src="../.././images/https_badge.png" />
+      </div>
+    </div>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">{{ .Get "headline_four"}}</h2>
+        <p class="copy-general">{{ .Get "copy_four" }}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="base-weave-section mdl-grid grey-background">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">{{ .Get "headline_five"}}</h2>
+        <p class="copy-general">{{ .Get "copy_five" }}</p>
+      </div>
+    </div>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <img src="../.././images/golang_gopher.png" />
+      </div>
+    </div>
+  </section>
+
+  {{ partial "main_cta.html" . }}
+
+  <section class="base-weave-section mdl-grid">
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+    </div>
+    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+      <div class="base-weave-section-copy">
+        <h2 class="subheadline-general">{{ .Get "headline_six"}}</h2>
+        <p class="copy-general">{{ .Get "copy_six" }}</p>
+      </div>
+    </div>
+  </section>
+</section>

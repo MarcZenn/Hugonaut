@@ -1,14 +1,62 @@
 {{ partial "header.html" . }}
 {{ partial "nav.html" . }}
 
-  <h1>Blog</h1>
-  <h2>{{ .Title }}</h2>
 
-  {{ range first 4 (where .Data.Pages "Section" "post") }}
-    <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+  <section class="blog-list-content mdl-grid">
+    <div class="hero mdl-cell--12-col">
+      <h2 class="title">Weave IQ</h2>
+      <p>News, Updates, Alerts &amp; Info on All Things Cannabis.</p>
+    </div>
 
-    <small>{{ .Date.Format "Sunday, Feb 12, 2017" }}</small>
-  {{ end }}
+    <div class="mdl-cell--2-col">
+      {{ partial "blog/tag/list.html" . }}
+    </div>
+
+    <div class="mdl-cell--10-col ">
+      <ul class="blog-listing">
+        {{ $paginator := .Paginate (where .Data.Pages "Section" "post") 10 }}
+        {{ range $paginator.Pages}}
+          <li class="mdl-card ">
+            <div class="mdl-card__title">
+              <h2 class="mdl-card__title-text"><a id="blog-card-title" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            </div>
+            <div class="mdl-card__supporting-text">
+              {{ .Description }}<br />
+              Below is a summary of the blog post. Built in variable...<br />
+              <br />
+              {{ .Summary }}
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                {{ dateFormat "Mon, Jan 2, 2006" .Date }}
+              </a>
+            </div>
+            <div class="mdl-card__menu">
+              <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
+                <i class="material-icons">add</i>
+              </button>
+            </div>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  <section class="page-paginator">
+    {{ if .Paginator.HasPrev }}
+      <button class="mdl-button prev mdl-js-button mdl-button--raised">
+        <a class="btn btn-default" href="{{ .Paginator.Prev.URL }}">Previous Page</a>
+      </button>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+      <button class="mdl-button next mdl-js-button mdl-button--raised">
+        <a class="btn btn-default" href="{{ .Paginator.Next.URL }}"> Next Page</a>
+      </button>
+    {{ end }}
+  </section>
+
+
 
 
 {{ partial "footer.html" . }}
+{{ partial "ender.html" . }}

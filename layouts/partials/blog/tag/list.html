@@ -1,0 +1,11 @@
+{{ with .Site.Params.tags }}
+<section class="blog-tags-list">
+  <p>Tags</p>
+  <ul>
+      {{ $sort := sort . }}
+      {{ $links := apply $sort "partial" "blog/tag/link" "." }}
+      {{ $clean := apply $links "chomp" "." }}
+      {{ delimit $clean " " }}
+  </ul>
+</section>
+{{ end }}
