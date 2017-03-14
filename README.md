@@ -1,4 +1,4 @@
-# Weave Static Front-End
+# Hugo Static Front-End Boilerplate
 
 ### Features
 
