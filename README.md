@@ -1,4 +1,4 @@
-# Introducing Hugonaut - A Simple Hugo Static Website Engine Framework
+# Hugonaut - A Simple Hugo Static Website Engine Framework
 
 ### Features
 
