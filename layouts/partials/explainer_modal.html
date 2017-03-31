@@ -3,7 +3,15 @@
   <div class="base-weave-section mdl-grid">
     <div class="mdl-cell mdl-cell--12-col">
       <div class="modal-media">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/xcJtL7QggTI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        <!-- "Video For Everybody" v0.4.1 by Kroc Camen of Camen Design <camendesign.com/code/video_for_everybody> =================================================================================================================== -->
+        <!-- first try HTML5 playback: if serving as XML, expand `controls` to `controls="controls"` and autoplay likewise  -->
+        <!-- warning: playback does not work on iPad/iPhone if you include the poster attribute! fixed in iOS4.0  -->
+        <video width="640" height="360" controls preload="none">
+            <!-- MP4 must be first for iPad! -->
+            <source src="https://storage.googleapis.com/weaveiq.com/assets/video/Intro12.mp4" type="video/mp4" /><!-- WebKit video    -->
+            <source src="https://storage.googleapis.com/weaveiq.com/assets/video/Intro12.webvm" type="video/webm" /><!-- Chrome / Newest versions of Firefox and Opera -->
+            <source src="https://storage.googleapis.com/weaveiq.com/assets/video/Intro12.ogv" type="video/ogg" /><!-- Firefox / Opera -->
+        </video>
       </div>
     </div>
   </div>

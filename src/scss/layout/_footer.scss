@@ -1,4 +1,24 @@
-.footer {
+.footer.mdl-mega-footer {
+  background-color: $primary-white;
+  border-top: 1px solid $primary-lightgrey;
+
+  .mdl-logo {
+    p {
+      color: $primary-grey;
+    }
+  }
+
+  h1 {
+    color: $primary-grey;
+    font-family: $primary-subheadline-font;
+    font-size: $regular;
+  }
+
+  img {
+    width: 65px;
+    display: block;
+    margin: 20px 40px;
+  }
 
   i {
     font-size: $small;
@@ -10,5 +30,7 @@
 
   a {
     text-transform: capitalize;
+    font-family: $primary-link-font;
+    color: $primary-grey;
   }
 }

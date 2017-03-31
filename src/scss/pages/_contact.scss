@@ -1,0 +1,27 @@
+.contact-content {
+
+  .contact-info-container-wrapper {
+    height: 100%;
+    background-color: $weave-indigo;
+
+    .contact-info-container {
+      text-align: left;
+      @include verticallyCenter;
+
+      p {
+        position: relative;
+        display: inline-block;
+        font-size: 25px;
+        color: $primary-white;
+        font-family: $primary-copy-font;
+        margin: 20px auto;
+
+        i {
+          color: $primary-white;
+        }
+      }
+    }
+  }
+
+
+}

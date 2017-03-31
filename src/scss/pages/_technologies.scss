@@ -1,0 +1,33 @@
+.technologies-content {
+
+  .feature-tiles-mini-wrapper {
+    padding: 200px 25px;
+
+    .feature-tiles-mini {
+
+      .mdl-cell {
+        .f-tile-mini {
+          padding: 45px;
+          background-color: $primary-lightgrey;
+
+          @media(max-width: 840px) {
+            padding: 50px 30px;
+          }
+        }
+
+        .printer-tile {
+          background: url('.././images/stars-symbol-logo.png') center / cover;
+        }
+        .scales-tile {
+          background: url('.././images/adweighing_symbol_logo.png') center / cover;
+        }
+        .barcode-tile {
+          background: url('.././images/dymo_symbol_logo.png') center / cover;
+        }
+        .label-tile {
+          background: url('.././images/zebratech_symbol_logo.png') center / cover;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+.request-demo-modal {
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+
+  form {
+    background-color: $primary-white;
+    border: $base-border-indigo;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 75px 100px 75px;
+    margin: 100px 200px;
+
+    #mc_embed_signup{
+      color: black;
+      background-color: transparent;
+      clear:left;
+      font:14px;
+    }
+
+    img {
+      display: block;
+      margin: 5px auto;
+      width: 75px;
+    }
+
+    h1 {
+      font-size: $large;
+      font-family: $primary-headline-font;
+      color: $weave-indigo;
+      font-weight: 200;
+      margin: 0 auto 25px auto;
+    }
+
+    .request-demo-form-button {
+      margin: 20px auto;
+      background-color: $weave-indigo;
+      color: $primary-white;
+      padding: 10px 20px;
+      border: 1px solid transparent;
+      border-radius: 3px;
+      font-size: $regular;
+
+      &:hover {
+        cursor: pointer;
+        border: 1px solid $weave-indigo;
+        background-color: $primary-white;
+        color: $weave-indigo;
+      }
+    }
+  }
+}

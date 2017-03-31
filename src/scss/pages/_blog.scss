@@ -7,15 +7,12 @@
     border-bottom: $base-border-lightgrey;
     margin: 0 0 20px 0;
     width: 100%;
-    background-color: #000000;
-    -webkit-box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
-    -moz-box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
-    box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
+    background: url('.././images/bluediamonds.jpg') center / cover;
 
     h2.title {
       display: inline-block;
       margin: 20px auto;
-      color: $weave-indigo-light;
+      color: $primary-white;
       font-family: $primary-headline-font;
       font-size: $large;
     }
@@ -42,7 +39,6 @@
 
       .mdl-card__title {
         height: auto;
-        // background: url('.././images/catgrass.jpg') center / cover;
 
         a {
           color: $weave-indigo;
@@ -62,7 +58,7 @@
         .mdl-card__title {
 
           a {
-            color: $primary-white;
+            color: $weave-red;
           }
         }
       }

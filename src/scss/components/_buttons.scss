@@ -25,11 +25,15 @@
   position: relative;
   z-index: 1;
   text-align: center;
-  opacity: 0.75;
+  opacity: 0.9;
+  background: url('.././images/bluediamonds.jpg') center / cover;
+  -webkit-box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
+  -moz-box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
+  box-shadow: -1px 10px 5px -8px rgba(0,0,0,0.29);
 
   div {
     margin: 0;
-    background-color: $weave-indigo-light;
+    background: transparent;
     padding: 10px 0;
 
     button {
@@ -42,8 +46,8 @@
       width: 100%;
 
       &:hover {
-        background-color: $weave-indigo-light;
-        color: $weave-red !important;
+        background: transparent;
+        color: $weave-indigo-light !important;
       }
     }
     div:hover {
@@ -55,10 +59,18 @@
   div:first-of-type {
     border-right: 1px solid $primary-white;
   }
+
+  @media(max-width: 839px) {
+    div:first-of-type {
+      border-bottom: 1px solid $primary-white;
+      border-right: none;
+      width: 100%;
+    }
+  }
 }
 
 .secondary-cta {
-  
+
   div {
     margin: 0;
     background-color: #000000;

@@ -1,12 +1,21 @@
 .about-content {
-  padding:100px;
+  padding: 145px 150px;
+  position: relative;
+  z-index: 1;
 
-  h2 {
-    color: $weave-indigo;
+  h1 {
+    text-align: center;
+    margin: 0 auto 45px auto;
+    font-family: $primary-subheadline-font;
+    @include weaveIndigoFontGradient;
   }
 
   p {
+    margin: 0 auto;
     color: $primary-grey;
+    font-family: $primary-copy-font;
+    line-height: 1.5;
+
   }
 
   @media(max-width: 620px) {

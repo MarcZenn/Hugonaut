@@ -1,0 +1,26 @@
+.team-content {
+
+  .feature-tiles-mini-wrapper {
+    padding: 190px 0px;
+
+    .feature-tiles-mini {
+
+      .mdl-cell {
+        text-align: center;
+
+        p {
+          font-family: $primary-copy-font;
+          color: $primary-grey;
+        }
+
+        .f-tile-mini {
+          padding: 65px 45px;
+
+          @media(max-width: 840px) {
+            padding: 50px 30px;
+          }
+        }
+      }
+    }
+  }
+}

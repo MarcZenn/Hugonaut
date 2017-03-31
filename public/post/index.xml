@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Static Website Boilerplate</title>
-    <link>http://example.com/post/index.xml</link>
-    <description>Recent content in Posts on Hugo Static Website Boilerplate</description>
+    <title>Posts on Weave Static Website</title>
+    <link>http://weaveiq.com/post/index.xml</link>
+    <description>Recent content in Posts on Weave Static Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Mar 2017 12:09:50 -0700</lastBuildDate>
-    <atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://weaveiq.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Third Blog Post</title>
-      <link>http://example.com/2017/third-blog-post</link>
+      <link>http://weaveiq.com/2017/third-blog-post</link>
       <pubDate>Thu, 09 Mar 2017 12:09:50 -0700</pubDate>
       
-      <guid>http://example.com/2017/third-blog-post</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://example.com/images/docker_symbol_logo.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+      <guid>http://weaveiq.com/2017/third-blog-post</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://weaveiq.com/images/docker_symbol_logo.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Actually, that was a box of Oscar&amp;rsquo;s legally obtained medical marijuana. Primo bud. Real sticky weed. It&amp;rsquo;s so watery. And yet there&amp;rsquo;s a smack of ham to it. You must teach me the ways of the secular flesh. Well excuse me, Judge Reinhold! WHY was this show cancelled? I mean, COME ON. Could it be love? I know what an erection feels like, Michael. No, it&amp;rsquo;s the opposite. It&amp;rsquo;s like my heart is getting hard. Buster&amp;rsquo;s in what we like to call a light to no coma. In laymans terms, it might be considered a very heavy nap.&lt;/p&gt;
 
@@ -31,11 +31,11 @@
     
     <item>
       <title>Second Blog Post</title>
-      <link>http://example.com/2017/second-blog-post</link>
+      <link>http://weaveiq.com/2017/second-blog-post</link>
       <pubDate>Sat, 11 Feb 2017 12:53:58 -0700</pubDate>
       
-      <guid>http://example.com/2017/second-blog-post</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://example.com/images/metrc.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+      <guid>http://weaveiq.com/2017/second-blog-post</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://weaveiq.com/images/metrc.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A night of heterosexual intercourse. Buster&amp;rsquo;s in what we like to call a light to no coma. In layman&amp;rsquo;s terms, it might be considered a very heavy nap.&lt;/p&gt;
 
@@ -51,11 +51,11 @@
     
     <item>
       <title>First Blog Post</title>
-      <link>http://example.com/2017/first-blog-post</link>
+      <link>http://weaveiq.com/2017/first-blog-post</link>
       <pubDate>Sat, 11 Feb 2017 12:53:53 -0700</pubDate>
       
-      <guid>http://example.com/2017/first-blog-post</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://example.com/images/golang_gopher.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+      <guid>http://weaveiq.com/2017/first-blog-post</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://weaveiq.com/images/golang_gopher.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Actually, that was a box of Oscar&amp;rsquo;s legally obtained medical marijuana. Primo bud. Real sticky weed. It&amp;rsquo;s so watery. And yet there&amp;rsquo;s a smack of ham to it. You must teach me the ways of the secular flesh. Well excuse me, Judge Reinhold! WHY was this show cancelled? I mean, COME ON. Could it be love? I know what an erection feels like, Michael. No, it&amp;rsquo;s the opposite. It&amp;rsquo;s like my heart is getting hard. Buster&amp;rsquo;s in what we like to call a light to no coma. In laymans terms, it might be considered a very heavy nap.&lt;/p&gt;
 

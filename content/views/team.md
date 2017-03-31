@@ -1,6 +1,6 @@
 +++
 type = ""
-menu = ["main","company","side"]
+menu = ["main","company","sidebar"]
 date = "2017-02-23T15:37:20-07:00"
 title = "team"
 url   = "/views/team"
@@ -19,6 +19,6 @@ url   = "/views/team"
 
   headline_two="Meet The Team"
 
-  copy_three="Some copy about the culture at Company, the work ethic, and what its like to be a team member....Go Buffs."
+  copy_three="We are leading the technology forefront of a brand new industry that is set to generate $35 billion dollars in the near future. Our team is full of experienced and talented engineers and business minds. We encourage innovation, and want to create some amazing products. Come join us in developing the first ERP system with an IQ. Our headquarters is in beautiful Boulder, CO surrounded by mountains and code."
 
 %}}

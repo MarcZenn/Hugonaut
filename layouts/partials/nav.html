@@ -1,24 +1,34 @@
 <section class="nav-wrapper">
-  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-    <div class="nav mdl-layout__header">
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header" >
+    <div class="nav mdl-layout__header" id="main-nav">
       <div class="mdl-layout__header-row">
-        <span class="mdl-layout-title"><a href="/">Weave</a></span>
+        <span class="mdl-layout-title"><a id="menu-marker" href="/">Weave</a></span>
         <!-- Add spacer, to align navigation to the right -->
         <div class="mdl-layout-spacer"></div>
         <nav class="mdl-navigation mdl-layout--large-screen-only">
           {{ range .Site.Menus.main }}
-            <a class="mdl-navigation__link" href="/views/{{ .Name }}">{{ .Name }}</a>
+            <a id="{{ .Name }}" class="mdl-navigation__link nav-list-item" href="/views/{{ .Name }}">{{ .Name }}</a>
           {{ end }}
         </nav>
       </div>
     </div>
     <div class="mdl-layout__drawer">
-      <span class="mdl-layout-title">Weave</span>
+      <span class="mdl-layout-title">Menu</span>
       <nav class="mdl-navigation">
-        {{ range .Site.Menus.main }}
-          <a class="mdl-navigation__link" href="/views/{{ .Name }}">{{ .Name }}</a>
+        {{ range .Site.Menus.sidebar }}
+          <a id="{{ .Name }}" class="mdl-navigation__link sidebar-list-item" href="/views/{{ .Name }}">{{ .Name }}</a>
         {{ end }}
+        <a class="mdl-navigation__link sidebar-list-item" href="/post">Blog</a>
       </nav>
+      <p><span><i class="material-icons">copyright</i></span> 2017 Weave LLC.</p>
+      <div class="mdl-grid">
+        <div class="mdl-cell--12-col text-center">
+          <span>support@weaveiq.com</span>
+        </div>
+        <div class="mdl-cell--12-col text-center">
+          <span class="mdl-cell--6-col">720-575-7030</span>
+        </div>
+      </div>
     </div>
   </div>
 </section>

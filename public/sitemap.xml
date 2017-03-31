@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2017/third-blog-post</loc>
+    <loc>http://weaveiq.com/2017/third-blog-post</loc>
     <lastmod>2017-03-09T12:09:50-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/privacy/</loc>
+    <loc>http://weaveiq.com/views/privacy/</loc>
     <lastmod>2017-03-07T16:41:11-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/faq/</loc>
+    <loc>http://weaveiq.com/views/FAQ/</loc>
     <lastmod>2017-02-26T16:23:33-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/technologies</loc>
+    <loc>http://weaveiq.com/views/technologies</loc>
     <lastmod>2017-02-23T15:37:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/team</loc>
+    <loc>http://weaveiq.com/views/team</loc>
     <lastmod>2017-02-23T15:37:20-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/stories</loc>
+    <loc>http://weaveiq.com/views/stories</loc>
     <lastmod>2017-02-23T15:37:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/products</loc>
+    <loc>http://weaveiq.com/views/products</loc>
     <lastmod>2017-02-23T15:36:49-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/terms-of-use</loc>
+    <loc>http://weaveiq.com/views/terms-of-use</loc>
     <lastmod>2017-02-23T15:36:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/contact</loc>
+    <loc>http://weaveiq.com/views/contact</loc>
     <lastmod>2017-02-23T15:36:18-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/views/about</loc>
+    <loc>http://weaveiq.com/views/about</loc>
     <lastmod>2017-02-23T11:27:35-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/2017/second-blog-post</loc>
+    <loc>http://weaveiq.com/2017/second-blog-post</loc>
     <lastmod>2017-02-11T12:53:58-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/2017/first-blog-post</loc>
+    <loc>http://weaveiq.com/2017/first-blog-post</loc>
     <lastmod>2017-02-11T12:53:53-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://weaveiq.com/post/</loc>
     <lastmod>2017-03-09T12:09:50-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/</loc>
-    <lastmod>2017-03-09T12:09:50-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/views/</loc>
+    <loc>http://weaveiq.com/views/</loc>
     <lastmod>2017-03-07T16:41:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://weaveiq.com/</loc>
+    <lastmod>2017-03-09T12:09:50-07:00</lastmod>
     <priority>0</priority>
   </url>
   

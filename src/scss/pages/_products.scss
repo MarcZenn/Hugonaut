@@ -12,8 +12,9 @@
       border-radius: 2px;
 
       .f-tile.mdl-card {
-        width: 320px;
-        height: 320px;
+        background-color: $primary-lightgrey;
+        width: 280px;
+        height: 300px;
         text-align: center;
         margin: 0 auto;
         padding: 0;
@@ -25,7 +26,7 @@
 
         i {
           font-size: 100px;
-          color: $weave-red;
+          color: $weave-navy;
           margin: 75px auto 0 auto;
           opacity: 0.85;
         }
@@ -37,7 +38,7 @@
       .f-tile > .mdl-card__title {
         color: #fff;
         border: none;
-        background-color: $primary-white
+        background-color: $primary-lightgrey;
       }
     }
   }

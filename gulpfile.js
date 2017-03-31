@@ -12,7 +12,8 @@ var gulp         = require("gulp"),
     hash         = require("gulp-hash"),
     del          = require("del"),
     concat       = require('gulp-concat'),
-    imagemin     = require('gulp-imagemin')
+    imagemin     = require('gulp-imagemin'),
+    run          = require('gulp-run')
 
 /*
  | ----------------------------------------------------
@@ -93,15 +94,18 @@ gulp.task("watch", ["js", "scss", "images"], function () {
     gulp.watch("src/scss/**/*", ["scss"])
     gulp.watch("src/images/**/*", ["images"])
     gulp.watch("src/js/**/*", ["js"])
-})
+    run('hugo').exec();
+    run('hugo server --port 1313').exec();
+});
 
 /*
  | ----------------------------------------------------
  | Build asset pipeline
  | ----------------------------------------------------
 */
-gulp.task("build", ["js", "scss", "images"]);
-
+gulp.task("build", ["js", "scss", "images"], function(cb) {
+  run('hugo').exec(cb);
+});
 
 /*
  | ----------------------------------------------------
@@ -109,3 +113,21 @@ gulp.task("build", ["js", "scss", "images"]);
  | ----------------------------------------------------
 */
 gulp.task("default", ["build"]);
+
+/*
+ | ----------------------------------------------------
+ | Gulp Publish to AWS S3 Task
+ | ----------------------------------------------------
+*/
+gulp.task("publish", ['build'], function() {
+  var publisher = awspublish.create(JSON.parse(fs.readFileSync('aws.json')));
+
+  var headers = {
+    'Cache-Control': 'max-age=315360000, no-transform, public'
+  };
+
+  return gulp.src('./public/**')
+    .pipe(parallelize(publisher.publish(headers)), 10) // parallelize for speed
+    .pipe(publisher.cache())
+    .pipe(awspublish.reporter())
+});

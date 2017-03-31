@@ -13,17 +13,5 @@
     </div>
   </section>
 
-  <section class="base-weave-section mdl-grid">
-    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
-      <div class="base-weave-section-copy">
-        <h2 class="subheadline-general">{{ .Get "headline_two"}}</h2>
-        <p class="copy-general">{{ .Get "copy_two" }}</p>
-      </div>
-    </div>
-    <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
-      <div class="base-weave-section-copy">
-        <img src="../.././images/peaceful_choice_logo.png" />
-      </div>
-    </div>
-  </section>
+  {{ partial "main_cta.html" . }}
 </section>
