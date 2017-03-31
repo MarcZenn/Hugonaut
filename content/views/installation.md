@@ -1,16 +1,16 @@
 +++
-url   = "/views/technologies"
+url   = "/views/installation"
 type = ""
 menu = ["main","features","sidebar"]
 date = "2017-02-23T15:37:36-07:00"
-title = "technologies"
+title = "installation"
 
 +++
 
 
 {{%
 
-  technologies
+  installation
 
   headline_one="Near Zero Downtime"
 

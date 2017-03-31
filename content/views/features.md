@@ -1,7 +1,7 @@
 +++
 date = "2017-02-23T15:36:49-07:00"
-title = "products"
-url   = "/views/products"
+title = "features"
+url   = "/views/features"
 type = ""
 menu = ["main","features","sidebar"]
 
@@ -9,7 +9,7 @@ menu = ["main","features","sidebar"]
 
 {{%
 
-  products
+  features
 
   headline_one="Profit Driving Products with an IQ"
 

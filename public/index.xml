@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weave Static Website</title>
+    <title>Hugonaut Framework</title>
     <link>http://weaveiq.com/index.xml</link>
-    <description>Recent content on Weave Static Website</description>
+    <description>Recent content on Hugonaut Framework</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Mar 2017 12:09:50 -0700</lastBuildDate>
@@ -93,10 +93,10 @@
     
     <item>
       <title></title>
-      <link>http://weaveiq.com/views/FAQ/</link>
+      <link>http://weaveiq.com/views/faq/</link>
       <pubDate>Sun, 26 Feb 2017 16:23:33 -0700</pubDate>
       
-      <guid>http://weaveiq.com/views/FAQ/</guid>
+      <guid>http://weaveiq.com/views/faq/</guid>
       <description></description>
     </item>
     

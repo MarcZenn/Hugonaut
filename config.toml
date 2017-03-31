@@ -5,7 +5,7 @@ config                               = "config.toml"
 metaDataFormat                       = "toml" # "yaml", "toml", "json"
 languageCode                         = "en-us"
 defaultContentLanguage               = "en-us"
-title                                = "Weave Static Website"
+title                                = "Hugonaut Framework"
 baseurl                              = "http://weaveiq.com/"
 googleAnalytics                      = "UA-93663741-1"
 archetypeDir                         = "archetypes"
@@ -21,7 +21,7 @@ enableMissingTranslationPlaceholders = false  # Show a placeholder instead of th
 
 [params]
     AuthorName         = "Marcos Martinez"
-    SiteDesc           = "Weave Static Website"
+    SiteDesc           = "Hugonaut Framework"
     tags               = ["updates", "community", "news", "industry", "technology"]
     googleFontFamilies = "Raleway|Dosis|Lato|Josefin Sans|Abel|Material Icons" # for more fonts visit: https://fonts.google.com. For more fonts visit: https://material.io/icons/ Do NOT remove "Material Icons" fonts
 

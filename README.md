@@ -1,7 +1,8 @@
-# Weave Static Front-End
+# Introducing Hugonaut - A Simple Hugo Static Website Engine Framework
 
 ### Features
 
+&nbsp; &nbsp; ✓ Free & Open-Sourced.<br>
 &nbsp; &nbsp; ✓ Modern JavaScript syntax.<br>
 &nbsp; &nbsp; ✓ Modern cache-busting, asset compiling & SCSS syntax via [SASS](http://sass-lang.com/) & [Gulp](http://gulpjs.com/).<br>
 &nbsp; &nbsp; ✓ Runs Anywhere, no need for admin privileges, databases, runtimes or interpreters.<br>
@@ -151,7 +152,7 @@ Every view declares its own route in the front-matter of its Markdown file, `~/c
 
 ### Site Wide Config Changes
 
-This project relies on a .TOML for sitewide configurations. In that file you can configure your Google fonts, Google Analytics Id, Your base url and blog tags. 
+This project relies on a .TOML for sitewide configurations. In that file you can configure your Google fonts, Google Analytics Id, Your base url and blog tags.
 
 ### Amazon Deployment
 
